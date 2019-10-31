@@ -1,0 +1,77 @@
+// USER INPUT QUESTION: Do you want user input to input the name of the user or should they be defined already?
+// Optional to ask inputMethod for name
+
+// Possible Extra Credit
+//Take input from somewhere else
+//IE:
+//Mark Goes first
+//Prateek goes next
+//Prateek turn inputed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//POSTER QUESTION:How to connect to a particular game?
+// call poster class in Main
+// Can't change Poster class Name to Dutch
+// Simple way EXAMPLE:
+/*
+public static void main(String[]args){
+        Poster.postDice("Taylor", new int[]{1,2,3,4,6})
+        Poster.postDice("Mark", new int[]{1,1,1,1,1,1,1,1,1,1});
+        Poster.postMessage("Now we are testing");
+        }
+*/
+//Ever Computer has MAC address so uses that to uniquely identify who's game
+
+
+// AMOUNT OF PLAYER QUESTION: For how many players does the game have to handle?
+// Game is played with every one in the bar
+// Should be capable of more than two players
+// "Keep code for two players, but make it capable to for multiple users" --- Must change math for Turn

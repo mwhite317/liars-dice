@@ -1,0 +1,3486 @@
+/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=53723:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/lib/tools.jar:/Users/markwhite/Desktop/CS112/Projects/liars-dice-mwhite317/out/production/liars-dice-mwhite317:/Users/markwhite/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/markwhite/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/markwhite/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.5.0-M1/junit-jupiter-api-5.5.0-M1.jar:/Users/markwhite/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/Users/markwhite/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/Users/markwhite/.m2/repository/org/junit/platform/junit-platform-commons/1.5.0-M1/junit-platform-commons-1.5.0-M1.jar LiarsDiceMain
+Select a language | Kies een taal :
+1. English
+2. Nederlands
+:1
+Setting up language...
+Enter the name of a Human Player (or Q to stop generating human players):
+Q
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+Matt
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+Mark
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+Luke
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+John
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+Jesus
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+Mary
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+Peter
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+Paul
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+Thomas
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+Judus
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+Kenyes
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+Samuel
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+Noah
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+God
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+Holy Father
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+Holy Spirit
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+Pope
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+Pope Francis
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+devil
+Enter the name of a AI Player (or RANDOM to randomise name or Q to stop generating Ai players):
+Q
+Starting a game of Liar's Dice!
+Remember 1s are wild!
+Round #0 [Matt: 5 dice, Mark: 5 dice, Luke: 5 dice, John: 5 dice, Jesus: 5 dice, Mary: 5 dice, Peter: 5 dice, Paul: 5 dice, Thomas: 5 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice]
+Turn for Matt
+Make a bid (Quantity & FaceValue)
+Bid made 38 of Face Value 6
+Round #0 [Matt: 5 dice, Mark: 5 dice, Luke: 5 dice, John: 5 dice, Jesus: 5 dice, Mary: 5 dice, Peter: 5 dice, Paul: 5 dice, Thomas: 5 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [38 dice of Face Value 6]
+Turn for Mark
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 51 of Face Value 6
+Round #0 [Matt: 5 dice, Mark: 5 dice, Luke: 5 dice, John: 5 dice, Jesus: 5 dice, Mary: 5 dice, Peter: 5 dice, Paul: 5 dice, Thomas: 5 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [51 dice of Face Value 6]
+Turn for Luke
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [51 dice of Face Value 6]...all dice shown:
+Matt[3, 2, 5, 6, 3] Count = 1
+Mark[3, 1, 3, 5, 1] Count = 2
+Luke[6, 6, 5, 6, 5] Count = 3
+John[4, 6, 5, 3, 6] Count = 2
+Jesus[4, 1, 6, 4, 2] Count = 2
+Mary[4, 6, 2, 2, 3] Count = 1
+Peter[2, 5, 1, 1, 4] Count = 2
+Paul[6, 5, 5, 5, 2] Count = 1
+Thomas[4, 4, 3, 5, 3] Count = 0
+Judus[3, 3, 2, 3, 6] Count = 1
+Kenyes[5, 6, 3, 4, 5] Count = 1
+Samuel[4, 4, 4, 6, 2] Count = 1
+Noah[3, 3, 5, 6, 2] Count = 1
+God[2, 5, 5, 5, 3] Count = 0
+Holy Father[5, 5, 1, 1, 4] Count = 2
+Holy Spirit[5, 6, 3, 6, 1] Count = 3
+Pope[6, 2, 5, 5, 5] Count = 1
+Pope Francis [1, 5, 2, 4, 1] Count = 2
+devil[4, 5, 3, 3, 2] Count = 0
+Total Count = 26
+Challenge invalid; Round Loser is Luke
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #1
+Round #1 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 5 dice, Jesus: 5 dice, Mary: 5 dice, Peter: 5 dice, Paul: 5 dice, Thomas: 5 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice]
+Turn for Luke
+Make a bid (Quantity & FaceValue)
+Bid made 64 of Face Value 3
+Round #1 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 5 dice, Jesus: 5 dice, Mary: 5 dice, Peter: 5 dice, Paul: 5 dice, Thomas: 5 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [64 dice of Face Value 3]
+Turn for John
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [64 dice of Face Value 3]...all dice shown:
+Matt[5, 4, 1, 6, 2] Count = 1
+Mark[5, 5, 6, 4, 2] Count = 0
+Luke[3, 4, 4, 4] Count = 1
+John[5, 3, 6, 1, 6] Count = 2
+Jesus[4, 4, 6, 4, 2] Count = 0
+Mary[4, 3, 3, 6, 5] Count = 2
+Peter[1, 6, 1, 1, 3] Count = 4
+Paul[1, 6, 2, 5, 3] Count = 2
+Thomas[1, 4, 5, 4, 3] Count = 2
+Judus[6, 4, 5, 3, 5] Count = 1
+Kenyes[2, 1, 3, 6, 2] Count = 2
+Samuel[2, 1, 2, 1, 6] Count = 2
+Noah[2, 4, 4, 6, 5] Count = 0
+God[4, 2, 2, 5, 2] Count = 0
+Holy Father[5, 4, 3, 3, 2] Count = 2
+Holy Spirit[2, 1, 1, 4, 1] Count = 3
+Pope[2, 6, 6, 6, 3] Count = 1
+Pope Francis [3, 6, 5, 1, 4] Count = 2
+devil[4, 5, 1, 1, 5] Count = 2
+Total Count = 29
+Challenge invalid; Round Loser is John
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #2
+Round #2 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 5 dice, Mary: 5 dice, Peter: 5 dice, Paul: 5 dice, Thomas: 5 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice]
+Turn for John
+Make a bid (Quantity & FaceValue)
+Bid made 8 of Face Value 6
+Round #2 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 5 dice, Mary: 5 dice, Peter: 5 dice, Paul: 5 dice, Thomas: 5 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [8 dice of Face Value 6]
+Turn for Jesus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [8 dice of Face Value 6]...all dice shown:
+Matt[2, 4, 2, 5, 6] Count = 1
+Mark[5, 6, 6, 5, 3] Count = 2
+Luke[4, 1, 4, 1] Count = 2
+John[4, 5, 1, 3] Count = 1
+Jesus[6, 2, 1, 1, 3] Count = 3
+Mary[4, 3, 4, 6, 2] Count = 1
+Peter[5, 4, 6, 2, 5] Count = 1
+Paul[4, 6, 5, 2, 4] Count = 1
+Thomas[5, 2, 4, 4, 6] Count = 1
+Judus[6, 2, 4, 6, 2] Count = 2
+Kenyes[4, 4, 3, 1, 6] Count = 2
+Samuel[5, 6, 2, 3, 3] Count = 1
+Noah[1, 5, 5, 3, 4] Count = 1
+God[3, 6, 3, 2, 2] Count = 1
+Holy Father[6, 5, 4, 3, 1] Count = 2
+Holy Spirit[5, 6, 1, 2, 6] Count = 3
+Pope[1, 6, 5, 4, 6] Count = 3
+Pope Francis [5, 3, 5, 4, 2] Count = 0
+devil[1, 5, 1, 2, 5] Count = 2
+Total Count = 30
+Challenge invalid; Round Loser is Jesus
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #3
+Round #3 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 5 dice, Peter: 5 dice, Paul: 5 dice, Thomas: 5 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice]
+Turn for Jesus
+Make a bid (Quantity & FaceValue)
+Bid made 17 of Face Value 1
+Round #3 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 5 dice, Peter: 5 dice, Paul: 5 dice, Thomas: 5 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [17 dice of Face Value 1]
+Turn for Mary
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [17 dice of Face Value 1]...all dice shown:
+Matt[6, 3, 6, 2, 1] Count = 1
+Mark[6, 3, 4, 3, 3] Count = 0
+Luke[6, 1, 3, 3] Count = 1
+John[5, 2, 2, 3] Count = 0
+Jesus[1, 5, 4, 1] Count = 2
+Mary[1, 6, 5, 5, 2] Count = 1
+Peter[3, 1, 1, 6, 4] Count = 2
+Paul[5, 1, 4, 6, 1] Count = 2
+Thomas[5, 1, 6, 5, 5] Count = 1
+Judus[4, 4, 1, 6, 2] Count = 1
+Kenyes[1, 2, 2, 4, 4] Count = 1
+Samuel[6, 1, 4, 3, 4] Count = 1
+Noah[5, 3, 5, 1, 4] Count = 1
+God[1, 4, 1, 2, 2] Count = 2
+Holy Father[6, 2, 3, 6, 5] Count = 0
+Holy Spirit[2, 1, 2, 1, 6] Count = 2
+Pope[3, 4, 4, 4, 4] Count = 0
+Pope Francis [5, 5, 6, 3, 5] Count = 0
+devil[3, 4, 3, 3, 2] Count = 0
+Total Count = 18
+Challenge invalid; Round Loser is Mary
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #4
+Round #4 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 5 dice, Paul: 5 dice, Thomas: 5 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice]
+Turn for Mary
+Make a bid (Quantity & FaceValue)
+Bid made 31 of Face Value 6
+Round #4 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 5 dice, Paul: 5 dice, Thomas: 5 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [31 dice of Face Value 6]
+Turn for Peter
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [31 dice of Face Value 6]...all dice shown:
+Matt[4, 4, 4, 6, 2] Count = 1
+Mark[3, 2, 6, 4, 6] Count = 2
+Luke[5, 2, 1, 5] Count = 1
+John[5, 5, 6, 5] Count = 1
+Jesus[6, 2, 5, 4] Count = 1
+Mary[1, 1, 2, 6] Count = 3
+Peter[1, 5, 6, 4, 6] Count = 3
+Paul[4, 1, 3, 3, 5] Count = 1
+Thomas[6, 6, 3, 3, 1] Count = 3
+Judus[5, 3, 3, 5, 1] Count = 1
+Kenyes[4, 1, 6, 4, 3] Count = 2
+Samuel[6, 3, 5, 1, 6] Count = 3
+Noah[1, 4, 2, 2, 3] Count = 1
+God[5, 4, 1, 5, 3] Count = 1
+Holy Father[6, 3, 2, 3, 1] Count = 2
+Holy Spirit[6, 1, 1, 2, 3] Count = 3
+Pope[3, 2, 1, 2, 2] Count = 1
+Pope Francis [5, 5, 3, 1, 2] Count = 1
+devil[3, 4, 2, 2, 1] Count = 1
+Total Count = 32
+Challenge invalid; Round Loser is Peter
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #5
+Round #5 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 5 dice, Thomas: 5 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice]
+Turn for Peter
+Make a bid (Quantity & FaceValue)
+Bid made 41 of Face Value 5
+Round #5 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 5 dice, Thomas: 5 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [41 dice of Face Value 5]
+Turn for Paul
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [41 dice of Face Value 5]...all dice shown:
+Matt[4, 2, 6, 4, 2] Count = 0
+Mark[6, 6, 1, 6, 6] Count = 1
+Luke[5, 5, 3, 5] Count = 3
+John[3, 6, 4, 2] Count = 0
+Jesus[4, 5, 1, 4] Count = 2
+Mary[1, 5, 6, 6] Count = 2
+Peter[2, 4, 6, 3] Count = 0
+Paul[3, 6, 4, 4, 3] Count = 0
+Thomas[1, 2, 1, 6, 4] Count = 2
+Judus[3, 3, 4, 4, 2] Count = 0
+Kenyes[1, 6, 4, 1, 1] Count = 3
+Samuel[6, 1, 6, 1, 6] Count = 2
+Noah[5, 1, 4, 2, 3] Count = 2
+God[1, 5, 3, 1, 3] Count = 3
+Holy Father[5, 2, 4, 2, 3] Count = 1
+Holy Spirit[4, 5, 2, 2, 6] Count = 1
+Pope[4, 1, 5, 1, 2] Count = 3
+Pope Francis [1, 6, 2, 4, 6] Count = 1
+devil[1, 3, 2, 3, 4] Count = 1
+Total Count = 27
+Challenge invalid; Round Loser is Paul
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #6
+Round #6 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 5 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice]
+Turn for Paul
+Make a bid (Quantity & FaceValue)
+Bid made 76 of Face Value 1
+Round #6 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 5 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [76 dice of Face Value 1]
+Turn for Thomas
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [76 dice of Face Value 1]...all dice shown:
+Matt[6, 4, 2, 6, 5] Count = 0
+Mark[4, 2, 1, 3, 5] Count = 1
+Luke[2, 4, 3, 2] Count = 0
+John[1, 5, 3, 5] Count = 1
+Jesus[1, 5, 2, 2] Count = 1
+Mary[3, 5, 2, 1] Count = 1
+Peter[4, 2, 3, 2] Count = 0
+Paul[3, 5, 4, 6] Count = 0
+Thomas[3, 1, 6, 1, 4] Count = 2
+Judus[4, 3, 1, 5, 4] Count = 1
+Kenyes[3, 2, 2, 3, 2] Count = 0
+Samuel[4, 2, 4, 4, 2] Count = 0
+Noah[2, 6, 6, 2, 5] Count = 0
+God[1, 3, 4, 1, 6] Count = 2
+Holy Father[2, 6, 2, 1, 5] Count = 1
+Holy Spirit[4, 6, 1, 3, 4] Count = 1
+Pope[2, 2, 6, 2, 6] Count = 0
+Pope Francis [2, 4, 1, 5, 4] Count = 1
+devil[1, 6, 6, 4, 2] Count = 1
+Total Count = 13
+Challenge invalid; Round Loser is Thomas
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #7
+Round #7 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice]
+Turn for Thomas
+Make a bid (Quantity & FaceValue)
+Bid made 81 of Face Value 5
+Round #7 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [81 dice of Face Value 5]
+Turn for Judus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 84 of Face Value 5
+Round #7 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 5 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [84 dice of Face Value 5]
+Turn for Kenyes
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [84 dice of Face Value 5]...all dice shown:
+Matt[3, 2, 5, 1, 2] Count = 2
+Mark[2, 4, 1, 3, 1] Count = 2
+Luke[2, 5, 6, 4] Count = 1
+John[3, 6, 1, 5] Count = 2
+Jesus[4, 1, 5, 5] Count = 3
+Mary[6, 6, 3, 4] Count = 0
+Peter[6, 1, 5, 2] Count = 2
+Paul[1, 3, 2, 4] Count = 1
+Thomas[6, 3, 4, 6] Count = 0
+Judus[1, 6, 3, 5, 5] Count = 3
+Kenyes[1, 2, 4, 6, 6] Count = 1
+Samuel[6, 4, 2, 4, 3] Count = 0
+Noah[3, 1, 5, 3, 2] Count = 2
+God[3, 4, 6, 6, 4] Count = 0
+Holy Father[1, 6, 2, 4, 1] Count = 2
+Holy Spirit[6, 4, 2, 4, 6] Count = 0
+Pope[1, 3, 6, 1, 2] Count = 2
+Pope Francis [3, 2, 2, 1, 2] Count = 1
+devil[3, 3, 2, 6, 5] Count = 1
+Total Count = 25
+Challenge invalid; Round Loser is Kenyes
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #8
+Round #8 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice]
+Turn for Kenyes
+Make a bid (Quantity & FaceValue)
+Bid made 56 of Face Value 0
+Round #8 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 5 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [56 dice of Face Value 0]
+Turn for Samuel
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [56 dice of Face Value 0]...all dice shown:
+Matt[2, 6, 2, 5, 5] Count = 0
+Mark[6, 6, 2, 2, 2] Count = 0
+Luke[4, 4, 5, 1] Count = 1
+John[1, 4, 5, 1] Count = 2
+Jesus[4, 6, 3, 3] Count = 0
+Mary[6, 1, 5, 2] Count = 1
+Peter[1, 3, 2, 4] Count = 1
+Paul[5, 6, 6, 2] Count = 0
+Thomas[6, 6, 4, 2] Count = 0
+Judus[5, 1, 5, 1, 2] Count = 2
+Kenyes[6, 6, 1, 4] Count = 1
+Samuel[5, 2, 3, 6, 1] Count = 1
+Noah[3, 5, 4, 2, 2] Count = 0
+God[3, 3, 2, 2, 2] Count = 0
+Holy Father[1, 1, 1, 5, 4] Count = 3
+Holy Spirit[2, 5, 5, 4, 1] Count = 1
+Pope[3, 2, 2, 3, 4] Count = 0
+Pope Francis [1, 1, 1, 5, 3] Count = 3
+devil[5, 2, 6, 6, 6] Count = 0
+Total Count = 16
+Challenge invalid; Round Loser is Samuel
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #9
+Round #9 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice]
+Turn for Samuel
+Make a bid (Quantity & FaceValue)
+Bid made 55 of Face Value 0
+Round #9 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 5 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [55 dice of Face Value 0]
+Turn for Noah
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [55 dice of Face Value 0]...all dice shown:
+Matt[2, 3, 6, 4, 1] Count = 1
+Mark[5, 5, 2, 5, 4] Count = 0
+Luke[4, 5, 1, 3] Count = 1
+John[5, 5, 5, 3] Count = 0
+Jesus[3, 2, 2, 2] Count = 0
+Mary[3, 1, 4, 2] Count = 1
+Peter[5, 1, 6, 5] Count = 1
+Paul[1, 2, 2, 1] Count = 2
+Thomas[2, 2, 3, 4] Count = 0
+Judus[6, 2, 1, 4, 3] Count = 1
+Kenyes[2, 3, 1, 2] Count = 1
+Samuel[4, 3, 2, 3] Count = 0
+Noah[1, 6, 2, 3, 1] Count = 2
+God[6, 4, 1, 2, 6] Count = 1
+Holy Father[5, 2, 3, 1, 5] Count = 1
+Holy Spirit[1, 4, 4, 2, 4] Count = 1
+Pope[6, 3, 3, 6, 3] Count = 0
+Pope Francis [1, 1, 3, 2, 1] Count = 3
+devil[1, 2, 5, 6, 6] Count = 1
+Total Count = 17
+Challenge invalid; Round Loser is Noah
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #10
+Round #10 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice]
+Turn for Noah
+Make a bid (Quantity & FaceValue)
+Bid made 46 of Face Value 4
+Round #10 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 5 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [46 dice of Face Value 4]
+Turn for God
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [46 dice of Face Value 4]...all dice shown:
+Matt[3, 6, 2, 1, 6] Count = 1
+Mark[5, 1, 3, 2, 1] Count = 2
+Luke[1, 6, 4, 5] Count = 2
+John[5, 1, 6, 6] Count = 1
+Jesus[4, 2, 2, 4] Count = 2
+Mary[6, 6, 6, 3] Count = 0
+Peter[6, 4, 1, 1] Count = 3
+Paul[2, 4, 4, 4] Count = 3
+Thomas[1, 5, 4, 4] Count = 3
+Judus[6, 5, 6, 5, 3] Count = 0
+Kenyes[1, 3, 5, 1] Count = 2
+Samuel[5, 2, 5, 5] Count = 0
+Noah[5, 4, 2, 6] Count = 1
+God[5, 4, 4, 5, 3] Count = 2
+Holy Father[5, 4, 1, 1, 2] Count = 3
+Holy Spirit[1, 4, 4, 6, 6] Count = 3
+Pope[1, 4, 2, 6, 5] Count = 2
+Pope Francis [6, 6, 1, 2, 5] Count = 1
+devil[6, 2, 3, 1, 4] Count = 2
+Total Count = 33
+Challenge invalid; Round Loser is God
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #11
+Round #11 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice]
+Turn for God
+Make a bid (Quantity & FaceValue)
+Bid made 23 of Face Value 6
+Round #11 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 5 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [23 dice of Face Value 6]
+Turn for Holy Father
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [23 dice of Face Value 6]...all dice shown:
+Matt[6, 4, 1, 2, 4] Count = 2
+Mark[5, 4, 4, 2, 1] Count = 1
+Luke[2, 5, 4, 6] Count = 1
+John[2, 2, 2, 2] Count = 0
+Jesus[1, 6, 4, 2] Count = 2
+Mary[4, 2, 4, 2] Count = 0
+Peter[1, 5, 6, 5] Count = 2
+Paul[5, 5, 3, 3] Count = 0
+Thomas[2, 1, 2, 1] Count = 2
+Judus[3, 1, 4, 2, 5] Count = 1
+Kenyes[1, 3, 6, 4] Count = 2
+Samuel[3, 2, 1, 3] Count = 1
+Noah[1, 5, 1, 5] Count = 2
+God[4, 2, 3, 3] Count = 0
+Holy Father[2, 4, 4, 5, 4] Count = 0
+Holy Spirit[3, 6, 6, 5, 4] Count = 2
+Pope[3, 6, 4, 3, 3] Count = 1
+Pope Francis [4, 1, 3, 2, 1] Count = 2
+devil[6, 6, 1, 6, 1] Count = 5
+Total Count = 26
+Challenge invalid; Round Loser is Holy Father
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #12
+Round #12 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice]
+Turn for Holy Father
+Make a bid (Quantity & FaceValue)
+Bid made 61 of Face Value 3
+Round #12 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [61 dice of Face Value 3]
+Turn for Holy Spirit
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 82 of Face Value 3
+Round #12 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 5 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [82 dice of Face Value 3]
+Turn for Pope
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [82 dice of Face Value 3]...all dice shown:
+Matt[1, 5, 1, 2, 1] Count = 3
+Mark[5, 2, 5, 4, 4] Count = 0
+Luke[3, 5, 4, 1] Count = 2
+John[6, 2, 6, 4] Count = 0
+Jesus[6, 5, 2, 5] Count = 0
+Mary[2, 3, 2, 1] Count = 2
+Peter[1, 3, 3, 6] Count = 3
+Paul[5, 3, 3, 6] Count = 2
+Thomas[6, 1, 3, 3] Count = 3
+Judus[4, 4, 6, 2, 5] Count = 0
+Kenyes[6, 1, 6, 4] Count = 1
+Samuel[6, 6, 6, 2] Count = 0
+Noah[3, 2, 2, 3] Count = 2
+God[5, 3, 6, 4] Count = 1
+Holy Father[4, 1, 4, 2] Count = 1
+Holy Spirit[3, 5, 4, 6, 3] Count = 2
+Pope[4, 5, 6, 2, 1] Count = 1
+Pope Francis [4, 2, 5, 1, 3] Count = 2
+devil[4, 5, 3, 1, 3] Count = 3
+Total Count = 28
+Challenge invalid; Round Loser is Pope
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #13
+Round #13 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 5 dice]
+Turn for Pope
+Make a bid (Quantity & FaceValue)
+Bid made 15 of Face Value 0
+Round #13 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [15 dice of Face Value 0]
+Turn for Pope Francis
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 57 of Face Value 0
+Round #13 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 5 dice] Last Bid: [57 dice of Face Value 0]
+Turn for devil
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [57 dice of Face Value 0]...all dice shown:
+Matt[3, 1, 6, 3, 1] Count = 2
+Mark[2, 1, 6, 5, 5] Count = 1
+Luke[4, 6, 2, 3] Count = 0
+John[6, 2, 2, 1] Count = 1
+Jesus[4, 5, 3, 5] Count = 0
+Mary[3, 2, 1, 5] Count = 1
+Peter[4, 3, 3, 3] Count = 0
+Paul[2, 4, 1, 4] Count = 1
+Thomas[1, 3, 1, 1] Count = 3
+Judus[4, 4, 2, 4, 5] Count = 0
+Kenyes[2, 2, 4, 5] Count = 0
+Samuel[3, 3, 6, 6] Count = 0
+Noah[2, 2, 4, 2] Count = 0
+God[4, 5, 5, 3] Count = 0
+Holy Father[4, 6, 6, 2] Count = 0
+Holy Spirit[2, 5, 4, 2, 3] Count = 0
+Pope[6, 4, 5, 4] Count = 0
+Pope Francis [4, 6, 4, 4, 3] Count = 0
+devil[1, 4, 3, 3, 2] Count = 1
+Total Count = 10
+Challenge invalid; Round Loser is devil
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #14
+Round #14 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice]
+Turn for devil
+Make a bid (Quantity & FaceValue)
+Bid made 9 of Face Value 4
+Round #14 [Matt: 5 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [9 dice of Face Value 4]
+Turn for Matt
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [9 dice of Face Value 4]...all dice shown:
+Matt[6, 5, 6, 1, 6] Count = 1
+Mark[4, 3, 3, 1, 6] Count = 2
+Luke[2, 4, 4, 3] Count = 2
+John[4, 4, 1, 5] Count = 3
+Jesus[4, 2, 4, 1] Count = 3
+Mary[6, 6, 6, 1] Count = 1
+Peter[5, 6, 4, 1] Count = 2
+Paul[5, 3, 2, 3] Count = 0
+Thomas[6, 3, 1, 1] Count = 2
+Judus[1, 1, 5, 6, 4] Count = 3
+Kenyes[1, 1, 2, 1] Count = 3
+Samuel[2, 3, 3, 6] Count = 0
+Noah[2, 4, 5, 5] Count = 1
+God[6, 4, 6, 6] Count = 1
+Holy Father[2, 4, 5, 1] Count = 2
+Holy Spirit[5, 6, 2, 2, 2] Count = 0
+Pope[5, 3, 5, 2] Count = 0
+Pope Francis [5, 4, 5, 3, 1] Count = 2
+devil[3, 4, 1, 1] Count = 3
+Total Count = 31
+Challenge invalid; Round Loser is Matt
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #15
+Round #15 [Matt: 4 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice]
+Turn for Matt
+Make a bid (Quantity & FaceValue)
+Bid made 46 of Face Value 4
+Round #15 [Matt: 4 dice, Mark: 5 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [46 dice of Face Value 4]
+Turn for Mark
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [46 dice of Face Value 4]...all dice shown:
+Matt[6, 6, 4, 6] Count = 1
+Mark[4, 1, 1, 2, 3] Count = 3
+Luke[4, 3, 5, 1] Count = 2
+John[2, 3, 1, 3] Count = 1
+Jesus[1, 5, 2, 6] Count = 1
+Mary[6, 6, 4, 4] Count = 2
+Peter[4, 4, 3, 4] Count = 3
+Paul[3, 5, 5, 6] Count = 0
+Thomas[2, 2, 5, 2] Count = 0
+Judus[1, 3, 2, 2, 6] Count = 1
+Kenyes[4, 4, 1, 2] Count = 3
+Samuel[6, 5, 5, 5] Count = 0
+Noah[4, 1, 3, 5] Count = 2
+God[2, 2, 4, 5] Count = 1
+Holy Father[3, 5, 4, 2] Count = 1
+Holy Spirit[3, 1, 5, 3, 3] Count = 1
+Pope[2, 5, 3, 5] Count = 0
+Pope Francis [5, 2, 2, 1, 2] Count = 1
+devil[6, 3, 1, 1] Count = 2
+Total Count = 25
+Challenge invalid; Round Loser is Mark
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #16
+Round #16 [Matt: 4 dice, Mark: 4 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice]
+Turn for Mark
+Make a bid (Quantity & FaceValue)
+Bid made 52 of Face Value 1
+Round #16 [Matt: 4 dice, Mark: 4 dice, Luke: 4 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [52 dice of Face Value 1]
+Turn for Luke
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [52 dice of Face Value 1]...all dice shown:
+Matt[6, 2, 6, 3] Count = 0
+Mark[5, 2, 4, 1] Count = 1
+Luke[6, 3, 3, 3] Count = 0
+John[4, 4, 3, 6] Count = 0
+Jesus[4, 4, 6, 2] Count = 0
+Mary[6, 5, 6, 2] Count = 0
+Peter[2, 5, 3, 6] Count = 0
+Paul[5, 4, 1, 6] Count = 1
+Thomas[5, 6, 4, 2] Count = 0
+Judus[2, 4, 6, 3, 6] Count = 0
+Kenyes[4, 6, 6, 1] Count = 1
+Samuel[4, 4, 3, 4] Count = 0
+Noah[5, 5, 6, 5] Count = 0
+God[6, 4, 5, 1] Count = 1
+Holy Father[2, 5, 6, 4] Count = 0
+Holy Spirit[4, 4, 6, 6, 4] Count = 0
+Pope[2, 1, 1, 3] Count = 2
+Pope Francis [2, 4, 4, 5, 2] Count = 0
+devil[4, 1, 3, 4] Count = 1
+Total Count = 7
+Challenge invalid; Round Loser is Luke
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #17
+Round #17 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice]
+Turn for Luke
+Make a bid (Quantity & FaceValue)
+Bid made 3 of Face Value 2
+Round #17 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [3 dice of Face Value 2]
+Turn for John
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 63 of Face Value 2
+Round #17 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [63 dice of Face Value 2]
+Turn for Jesus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 74 of Face Value 2
+Round #17 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 4 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [74 dice of Face Value 2]
+Turn for Mary
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [74 dice of Face Value 2]...all dice shown:
+Matt[3, 5, 1, 5] Count = 1
+Mark[5, 6, 6, 4] Count = 0
+Luke[3, 3, 2] Count = 1
+John[5, 6, 4, 1] Count = 1
+Jesus[2, 5, 2, 2] Count = 3
+Mary[6, 1, 1, 3] Count = 2
+Peter[5, 5, 5, 2] Count = 1
+Paul[4, 6, 3, 2] Count = 1
+Thomas[4, 6, 1, 3] Count = 1
+Judus[6, 4, 3, 6, 2] Count = 1
+Kenyes[5, 4, 3, 1] Count = 1
+Samuel[1, 1, 3, 4] Count = 2
+Noah[4, 2, 1, 3] Count = 2
+God[3, 1, 3, 4] Count = 1
+Holy Father[5, 5, 6, 3] Count = 0
+Holy Spirit[2, 5, 5, 4, 3] Count = 1
+Pope[3, 1, 1, 4] Count = 2
+Pope Francis [6, 3, 6, 6, 1] Count = 1
+devil[3, 4, 4, 1] Count = 1
+Total Count = 23
+Challenge invalid; Round Loser is Mary
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #18
+Round #18 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice]
+Turn for Mary
+Make a bid (Quantity & FaceValue)
+Bid made 27 of Face Value 2
+Round #18 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [27 dice of Face Value 2]
+Turn for Peter
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 49 of Face Value 2
+Round #18 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 4 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [49 dice of Face Value 2]
+Turn for Paul
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [49 dice of Face Value 2]...all dice shown:
+Matt[2, 2, 1, 2] Count = 4
+Mark[1, 6, 4, 5] Count = 1
+Luke[6, 6, 5] Count = 0
+John[5, 5, 3, 3] Count = 0
+Jesus[5, 6, 3, 2] Count = 1
+Mary[6, 2, 2] Count = 2
+Peter[3, 5, 3, 6] Count = 0
+Paul[5, 5, 1, 3] Count = 1
+Thomas[5, 6, 2, 1] Count = 2
+Judus[5, 4, 4, 3, 1] Count = 1
+Kenyes[1, 6, 2, 1] Count = 3
+Samuel[6, 1, 3, 5] Count = 1
+Noah[6, 6, 2, 1] Count = 2
+God[4, 4, 6, 4] Count = 0
+Holy Father[3, 6, 1, 6] Count = 1
+Holy Spirit[2, 1, 5, 5, 6] Count = 2
+Pope[3, 6, 3, 6] Count = 0
+Pope Francis [4, 3, 5, 1, 2] Count = 2
+devil[1, 2, 4, 4] Count = 2
+Total Count = 25
+Challenge invalid; Round Loser is Paul
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #19
+Round #19 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice]
+Turn for Paul
+Make a bid (Quantity & FaceValue)
+Bid made 4 of Face Value 6
+Round #19 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 4 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [4 dice of Face Value 6]
+Turn for Thomas
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [4 dice of Face Value 6]...all dice shown:
+Matt[5, 4, 3, 2] Count = 0
+Mark[6, 5, 4, 6] Count = 2
+Luke[5, 4, 6] Count = 1
+John[4, 6, 3, 6] Count = 2
+Jesus[6, 2, 3, 4] Count = 1
+Mary[5, 4, 2] Count = 0
+Peter[1, 4, 1, 2] Count = 2
+Paul[6, 1, 2] Count = 2
+Thomas[1, 2, 4, 3] Count = 1
+Judus[1, 6, 3, 4, 1] Count = 3
+Kenyes[2, 5, 3, 6] Count = 1
+Samuel[5, 5, 5, 3] Count = 0
+Noah[6, 1, 2, 1] Count = 3
+God[5, 3, 2, 3] Count = 0
+Holy Father[4, 5, 3, 2] Count = 0
+Holy Spirit[4, 1, 6, 4, 2] Count = 2
+Pope[2, 1, 6, 2] Count = 2
+Pope Francis [2, 1, 4, 4, 5] Count = 1
+devil[4, 2, 6, 6] Count = 2
+Total Count = 25
+Challenge invalid; Round Loser is Thomas
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #20
+Round #20 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 3 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice]
+Turn for Thomas
+Make a bid (Quantity & FaceValue)
+Bid made 31 of Face Value 6
+Round #20 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 3 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [31 dice of Face Value 6]
+Turn for Judus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [31 dice of Face Value 6]...all dice shown:
+Matt[6, 1, 5, 1] Count = 3
+Mark[2, 5, 4, 3] Count = 0
+Luke[6, 1, 2] Count = 2
+John[5, 1, 3, 4] Count = 1
+Jesus[4, 3, 3, 5] Count = 0
+Mary[6, 1, 2] Count = 2
+Peter[5, 2, 3, 4] Count = 0
+Paul[5, 6, 5] Count = 1
+Thomas[3, 3, 5] Count = 0
+Judus[6, 1, 2, 2, 2] Count = 2
+Kenyes[2, 6, 1, 6] Count = 3
+Samuel[6, 1, 3, 5] Count = 2
+Noah[1, 5, 6, 1] Count = 3
+God[2, 4, 1, 1] Count = 2
+Holy Father[5, 2, 1, 1] Count = 2
+Holy Spirit[5, 4, 6, 2, 6] Count = 2
+Pope[2, 4, 6, 4] Count = 1
+Pope Francis [1, 6, 6, 6, 4] Count = 4
+devil[4, 6, 4, 5] Count = 1
+Total Count = 31
+Challenge valid; Round Loser is Thomas
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #21
+Round #21 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice]
+Turn for Thomas
+Make a bid (Quantity & FaceValue)
+Bid made 64 of Face Value 2
+Round #21 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [64 dice of Face Value 2]
+Turn for Judus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 73 of Face Value 2
+Round #21 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [73 dice of Face Value 2]
+Turn for Kenyes
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 73 of Face Value 3
+Round #21 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 4 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [73 dice of Face Value 3]
+Turn for Samuel
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [73 dice of Face Value 3]...all dice shown:
+Matt[5, 5, 3, 4] Count = 1
+Mark[3, 5, 4, 5] Count = 1
+Luke[6, 3, 4] Count = 1
+John[6, 6, 3, 4] Count = 1
+Jesus[2, 6, 4, 3] Count = 1
+Mary[5, 6, 3] Count = 1
+Peter[4, 4, 1, 3] Count = 2
+Paul[1, 1, 4] Count = 2
+Thomas[1, 6] Count = 1
+Judus[4, 5, 1, 6, 4] Count = 1
+Kenyes[5, 4, 4, 5] Count = 0
+Samuel[3, 4, 2, 4] Count = 1
+Noah[2, 2, 6, 5] Count = 0
+God[3, 5, 1, 4] Count = 2
+Holy Father[1, 5, 3, 2] Count = 2
+Holy Spirit[4, 3, 5, 4, 2] Count = 1
+Pope[1, 2, 4, 6] Count = 1
+Pope Francis [4, 5, 4, 5, 6] Count = 0
+devil[2, 1, 4, 2] Count = 1
+Total Count = 20
+Challenge invalid; Round Loser is Samuel
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #22
+Round #22 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice]
+Turn for Samuel
+Make a bid (Quantity & FaceValue)
+Bid made 2 of Face Value 5
+Round #22 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 4 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [2 dice of Face Value 5]
+Turn for Noah
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [2 dice of Face Value 5]...all dice shown:
+Matt[1, 2, 2, 6] Count = 1
+Mark[1, 6, 4, 1] Count = 2
+Luke[4, 3, 4] Count = 0
+John[1, 1, 5, 6] Count = 3
+Jesus[5, 2, 1, 4] Count = 2
+Mary[3, 4, 1] Count = 1
+Peter[5, 5, 6, 6] Count = 2
+Paul[2, 6, 5] Count = 1
+Thomas[3, 4] Count = 0
+Judus[5, 1, 6, 2, 2] Count = 2
+Kenyes[1, 5, 2, 5] Count = 3
+Samuel[1, 6, 5] Count = 2
+Noah[1, 2, 1, 3] Count = 2
+God[6, 1, 2, 1] Count = 2
+Holy Father[2, 4, 3, 1] Count = 1
+Holy Spirit[2, 1, 6, 2, 6] Count = 1
+Pope[3, 5, 5, 6] Count = 2
+Pope Francis [2, 3, 3, 5, 6] Count = 1
+devil[5, 2, 4, 1] Count = 2
+Total Count = 30
+Challenge invalid; Round Loser is Noah
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #23
+Round #23 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice]
+Turn for Noah
+Make a bid (Quantity & FaceValue)
+Bid made 32 of Face Value 1
+Round #23 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 4 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [32 dice of Face Value 1]
+Turn for God
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [32 dice of Face Value 1]...all dice shown:
+Matt[4, 2, 5, 3] Count = 0
+Mark[2, 3, 6, 5] Count = 0
+Luke[6, 5, 5] Count = 0
+John[3, 3, 3, 5] Count = 0
+Jesus[2, 3, 1, 3] Count = 1
+Mary[1, 6, 2] Count = 1
+Peter[5, 5, 3, 4] Count = 0
+Paul[2, 2, 2] Count = 0
+Thomas[6, 4] Count = 0
+Judus[4, 3, 5, 2, 5] Count = 0
+Kenyes[1, 3, 4, 5] Count = 1
+Samuel[2, 1, 5] Count = 1
+Noah[4, 1, 6] Count = 1
+God[3, 1, 2, 5] Count = 1
+Holy Father[1, 1, 3, 1] Count = 3
+Holy Spirit[3, 3, 6, 4, 2] Count = 0
+Pope[1, 2, 6, 2] Count = 1
+Pope Francis [2, 3, 2, 3, 3] Count = 0
+devil[2, 4, 6, 1] Count = 1
+Total Count = 11
+Challenge invalid; Round Loser is God
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #24
+Round #24 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice]
+Turn for God
+Make a bid (Quantity & FaceValue)
+Bid made 52 of Face Value 0
+Round #24 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 4 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [52 dice of Face Value 0]
+Turn for Holy Father
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [52 dice of Face Value 0]...all dice shown:
+Matt[3, 5, 1, 2] Count = 1
+Mark[6, 1, 3, 6] Count = 1
+Luke[4, 5, 6] Count = 0
+John[4, 2, 1, 4] Count = 1
+Jesus[1, 4, 5, 3] Count = 1
+Mary[6, 4, 5] Count = 0
+Peter[5, 6, 1, 3] Count = 1
+Paul[1, 2, 5] Count = 1
+Thomas[3, 6] Count = 0
+Judus[4, 2, 3, 1, 3] Count = 1
+Kenyes[2, 5, 4, 6] Count = 0
+Samuel[2, 2, 1] Count = 1
+Noah[2, 4, 3] Count = 0
+God[6, 6, 6] Count = 0
+Holy Father[1, 6, 3, 3] Count = 1
+Holy Spirit[4, 1, 6, 1, 4] Count = 2
+Pope[6, 4, 6, 5] Count = 0
+Pope Francis [1, 5, 3, 1, 5] Count = 2
+devil[3, 3, 6, 3] Count = 0
+Total Count = 13
+Challenge invalid; Round Loser is Holy Father
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #25
+Round #25 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice]
+Turn for Holy Father
+Make a bid (Quantity & FaceValue)
+Bid made 70 of Face Value 6
+Round #25 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 5 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [70 dice of Face Value 6]
+Turn for Holy Spirit
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [70 dice of Face Value 6]...all dice shown:
+Matt[3, 5, 1, 4] Count = 1
+Mark[5, 1, 3, 2] Count = 1
+Luke[1, 5, 6] Count = 2
+John[6, 3, 6, 6] Count = 3
+Jesus[5, 3, 4, 3] Count = 0
+Mary[4, 5, 6] Count = 1
+Peter[2, 1, 6, 2] Count = 2
+Paul[6, 1, 4] Count = 2
+Thomas[5, 6] Count = 1
+Judus[5, 3, 5, 4, 5] Count = 0
+Kenyes[2, 6, 6, 1] Count = 3
+Samuel[3, 3, 2] Count = 0
+Noah[2, 3, 2] Count = 0
+God[4, 2, 2] Count = 0
+Holy Father[3, 5, 5] Count = 0
+Holy Spirit[3, 5, 3, 2, 3] Count = 0
+Pope[5, 4, 1, 4] Count = 1
+Pope Francis [6, 6, 3, 5, 6] Count = 3
+devil[2, 3, 4, 3] Count = 0
+Total Count = 20
+Challenge invalid; Round Loser is Holy Spirit
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #26
+Round #26 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice]
+Turn for Holy Spirit
+Make a bid (Quantity & FaceValue)
+Bid made 43 of Face Value 6
+Round #26 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [43 dice of Face Value 6]
+Turn for Pope
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 63 of Face Value 6
+Round #26 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 5 dice, devil: 4 dice] Last Bid: [63 dice of Face Value 6]
+Turn for Pope Francis
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [63 dice of Face Value 6]...all dice shown:
+Matt[5, 5, 5, 5] Count = 0
+Mark[5, 1, 4, 4] Count = 1
+Luke[1, 4, 4] Count = 1
+John[4, 3, 6, 5] Count = 1
+Jesus[2, 2, 6, 2] Count = 1
+Mary[6, 1, 5] Count = 2
+Peter[5, 6, 4, 6] Count = 2
+Paul[3, 4, 3] Count = 0
+Thomas[5, 2] Count = 0
+Judus[3, 3, 1, 3, 2] Count = 1
+Kenyes[6, 1, 2, 3] Count = 2
+Samuel[5, 5, 5] Count = 0
+Noah[2, 1, 1] Count = 2
+God[1, 2, 3] Count = 1
+Holy Father[3, 3, 6] Count = 1
+Holy Spirit[6, 1, 3, 5] Count = 2
+Pope[3, 4, 2, 3] Count = 0
+Pope Francis [1, 6, 5, 2, 4] Count = 2
+devil[4, 4, 6, 1] Count = 2
+Total Count = 21
+Challenge invalid; Round Loser is Pope Francis
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #27
+Round #27 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Pope Francis
+Make a bid (Quantity & FaceValue)
+Bid made 8 of Face Value 5
+Round #27 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [8 dice of Face Value 5]
+Turn for devil
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 53 of Face Value 5
+Round #27 [Matt: 4 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [53 dice of Face Value 5]
+Turn for Matt
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [53 dice of Face Value 5]...all dice shown:
+Matt[3, 4, 2, 1] Count = 1
+Mark[3, 2, 3, 1] Count = 1
+Luke[3, 2, 5] Count = 1
+John[5, 1, 2, 2] Count = 2
+Jesus[4, 2, 1, 2] Count = 1
+Mary[2, 3, 3] Count = 0
+Peter[5, 6, 3, 1] Count = 2
+Paul[4, 6, 2] Count = 0
+Thomas[4, 1] Count = 1
+Judus[3, 5, 2, 1, 4] Count = 2
+Kenyes[1, 2, 5, 3] Count = 2
+Samuel[1, 6, 4] Count = 1
+Noah[3, 4, 5] Count = 1
+God[1, 6, 1] Count = 2
+Holy Father[4, 2, 6] Count = 0
+Holy Spirit[3, 2, 3, 2] Count = 0
+Pope[4, 4, 1, 5] Count = 2
+Pope Francis [5, 4, 3, 2] Count = 1
+devil[3, 1, 2, 2] Count = 1
+Total Count = 21
+Challenge invalid; Round Loser is Matt
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #28
+Round #28 [Matt: 3 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Matt
+Make a bid (Quantity & FaceValue)
+Bid made 16 of Face Value 0
+Round #28 [Matt: 3 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [16 dice of Face Value 0]
+Turn for Mark
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 22 of Face Value 0
+Round #28 [Matt: 3 dice, Mark: 4 dice, Luke: 3 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [22 dice of Face Value 0]
+Turn for Luke
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [22 dice of Face Value 0]...all dice shown:
+Matt[6, 1, 2] Count = 1
+Mark[2, 1, 3, 4] Count = 1
+Luke[6, 5, 4] Count = 0
+John[1, 2, 4, 6] Count = 1
+Jesus[1, 4, 5, 4] Count = 1
+Mary[4, 1, 3] Count = 1
+Peter[2, 5, 6, 5] Count = 0
+Paul[3, 6, 6] Count = 0
+Thomas[6, 6] Count = 0
+Judus[4, 1, 5, 5, 5] Count = 1
+Kenyes[1, 2, 5, 4] Count = 1
+Samuel[2, 4, 3] Count = 0
+Noah[6, 6, 6] Count = 0
+God[6, 5, 5] Count = 0
+Holy Father[4, 4, 2] Count = 0
+Holy Spirit[6, 5, 3, 2] Count = 0
+Pope[5, 4, 2, 5] Count = 0
+Pope Francis [1, 6, 6, 2] Count = 1
+devil[5, 2, 4, 4] Count = 0
+Total Count = 8
+Challenge invalid; Round Loser is Luke
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #29
+Round #29 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Luke
+Make a bid (Quantity & FaceValue)
+Bid made 31 of Face Value 3
+Round #29 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [31 dice of Face Value 3]
+Turn for John
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 52 of Face Value 3
+Round #29 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 4 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [52 dice of Face Value 3]
+Turn for Jesus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [52 dice of Face Value 3]...all dice shown:
+Matt[6, 6, 2] Count = 0
+Mark[4, 5, 5, 5] Count = 0
+Luke[6, 1] Count = 1
+John[5, 4, 6, 2] Count = 0
+Jesus[6, 6, 2, 1] Count = 1
+Mary[5, 3, 2] Count = 1
+Peter[6, 5, 5, 2] Count = 0
+Paul[1, 6, 1] Count = 2
+Thomas[2, 3] Count = 1
+Judus[2, 4, 5, 6, 1] Count = 1
+Kenyes[4, 4, 4, 6] Count = 0
+Samuel[3, 3, 5] Count = 2
+Noah[2, 5, 5] Count = 0
+God[5, 2, 2] Count = 0
+Holy Father[5, 6, 1] Count = 1
+Holy Spirit[1, 4, 6, 6] Count = 1
+Pope[3, 5, 1, 2] Count = 2
+Pope Francis [6, 2, 3, 3] Count = 2
+devil[5, 1, 2, 1] Count = 2
+Total Count = 17
+Challenge invalid; Round Loser is Jesus
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #30
+Round #30 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Jesus
+Make a bid (Quantity & FaceValue)
+Bid made 56 of Face Value 6
+Round #30 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [56 dice of Face Value 6]
+Turn for Mary
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 65 of Face Value 6
+Round #30 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 4 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [65 dice of Face Value 6]
+Turn for Peter
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [65 dice of Face Value 6]...all dice shown:
+Matt[2, 2, 3] Count = 0
+Mark[3, 1, 1, 3] Count = 2
+Luke[6, 3] Count = 1
+John[5, 4, 3, 3] Count = 0
+Jesus[4, 6, 3] Count = 1
+Mary[1, 1, 6] Count = 3
+Peter[3, 3, 6, 2] Count = 1
+Paul[1, 1, 5] Count = 2
+Thomas[5, 4] Count = 0
+Judus[4, 2, 2, 6, 3] Count = 1
+Kenyes[1, 5, 6, 3] Count = 2
+Samuel[5, 1, 1] Count = 2
+Noah[3, 2, 1] Count = 1
+God[3, 2, 4] Count = 0
+Holy Father[2, 5, 1] Count = 1
+Holy Spirit[4, 2, 1, 4] Count = 1
+Pope[1, 4, 1, 5] Count = 2
+Pope Francis [6, 1, 3, 4] Count = 2
+devil[2, 3, 2, 6] Count = 1
+Total Count = 23
+Challenge invalid; Round Loser is Peter
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #31
+Round #31 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Peter
+Make a bid (Quantity & FaceValue)
+Bid made 47 of Face Value 0
+Round #31 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [47 dice of Face Value 0]
+Turn for Paul
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 59 of Face Value 0
+Round #31 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 2 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [59 dice of Face Value 0]
+Turn for Thomas
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [59 dice of Face Value 0]...all dice shown:
+Matt[4, 6, 6] Count = 0
+Mark[4, 2, 4, 3] Count = 0
+Luke[2, 4] Count = 0
+John[6, 3, 3, 3] Count = 0
+Jesus[1, 3, 3] Count = 1
+Mary[4, 4, 4] Count = 0
+Peter[6, 3, 4] Count = 0
+Paul[1, 6, 4] Count = 1
+Thomas[2, 3] Count = 0
+Judus[4, 6, 1, 3, 6] Count = 1
+Kenyes[5, 1, 2, 2] Count = 1
+Samuel[3, 5, 4] Count = 0
+Noah[6, 4, 6] Count = 0
+God[3, 4, 2] Count = 0
+Holy Father[3, 2, 5] Count = 0
+Holy Spirit[5, 4, 4, 4] Count = 0
+Pope[2, 2, 6, 3] Count = 0
+Pope Francis [5, 4, 3, 5] Count = 0
+devil[3, 4, 4, 3] Count = 0
+Total Count = 4
+Challenge invalid; Round Loser is Thomas
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #32
+Round #32 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Thomas
+Make a bid (Quantity & FaceValue)
+Bid made 20 of Face Value 6
+Round #32 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [20 dice of Face Value 6]
+Turn for Judus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 22 of Face Value 6
+Round #32 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 4 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [22 dice of Face Value 6]
+Turn for Kenyes
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [22 dice of Face Value 6]...all dice shown:
+Matt[3, 2, 2] Count = 0
+Mark[4, 1, 4, 4] Count = 1
+Luke[4, 3] Count = 0
+John[6, 6, 5, 3] Count = 2
+Jesus[5, 2, 4] Count = 0
+Mary[4, 6, 1] Count = 2
+Peter[1, 4, 3] Count = 1
+Paul[5, 4, 5] Count = 0
+Thomas[5] Count = 0
+Judus[4, 2, 5, 1, 1] Count = 2
+Kenyes[2, 6, 6, 4] Count = 2
+Samuel[4, 1, 2] Count = 1
+Noah[1, 3, 4] Count = 1
+God[1, 5, 5] Count = 1
+Holy Father[4, 2, 2] Count = 0
+Holy Spirit[3, 1, 1, 3] Count = 2
+Pope[3, 5, 4, 5] Count = 0
+Pope Francis [4, 4, 3, 2] Count = 0
+devil[3, 4, 3, 1] Count = 1
+Total Count = 16
+Challenge invalid; Round Loser is Kenyes
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #33
+Round #33 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Kenyes
+Make a bid (Quantity & FaceValue)
+Bid made 50 of Face Value 1
+Round #33 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 3 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [50 dice of Face Value 1]
+Turn for Samuel
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [50 dice of Face Value 1]...all dice shown:
+Matt[6, 6, 6] Count = 0
+Mark[6, 1, 1, 6] Count = 2
+Luke[3, 2] Count = 0
+John[4, 3, 5, 5] Count = 0
+Jesus[1, 6, 3] Count = 1
+Mary[5, 6, 6] Count = 0
+Peter[6, 5, 4] Count = 0
+Paul[2, 2, 2] Count = 0
+Thomas[5] Count = 0
+Judus[4, 2, 3, 4, 3] Count = 0
+Kenyes[4, 6, 4] Count = 0
+Samuel[4, 2, 3] Count = 0
+Noah[4, 3, 1] Count = 1
+God[6, 4, 2] Count = 0
+Holy Father[3, 1, 6] Count = 1
+Holy Spirit[1, 4, 5, 1] Count = 2
+Pope[6, 5, 3, 3] Count = 0
+Pope Francis [5, 3, 4, 1] Count = 1
+devil[3, 1, 6, 1] Count = 2
+Total Count = 10
+Challenge invalid; Round Loser is Samuel
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #34
+Round #34 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Samuel
+Make a bid (Quantity & FaceValue)
+Bid made 39 of Face Value 5
+Round #34 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 3 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [39 dice of Face Value 5]
+Turn for Noah
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [39 dice of Face Value 5]...all dice shown:
+Matt[5, 5, 6] Count = 2
+Mark[4, 1, 5, 4] Count = 2
+Luke[2, 2] Count = 0
+John[2, 3, 3, 3] Count = 0
+Jesus[4, 6, 2] Count = 0
+Mary[5, 3, 3] Count = 1
+Peter[4, 6, 3] Count = 0
+Paul[6, 2, 4] Count = 0
+Thomas[3] Count = 0
+Judus[1, 6, 2, 1, 3] Count = 2
+Kenyes[3, 6, 6] Count = 0
+Samuel[4, 4] Count = 0
+Noah[4, 3, 6] Count = 0
+God[2, 2, 6] Count = 0
+Holy Father[5, 2, 4] Count = 1
+Holy Spirit[1, 5, 2, 1] Count = 3
+Pope[1, 2, 5, 6] Count = 2
+Pope Francis [5, 3, 6, 4] Count = 1
+devil[5, 3, 6, 6] Count = 1
+Total Count = 15
+Challenge invalid; Round Loser is Noah
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #35
+Round #35 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Noah
+Make a bid (Quantity & FaceValue)
+Bid made 43 of Face Value 5
+Round #35 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 3 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [43 dice of Face Value 5]
+Turn for God
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [43 dice of Face Value 5]...all dice shown:
+Matt[3, 2, 2] Count = 0
+Mark[2, 4, 2, 5] Count = 1
+Luke[3, 2] Count = 0
+John[4, 1, 3, 5] Count = 2
+Jesus[5, 2, 1] Count = 2
+Mary[6, 5, 3] Count = 1
+Peter[4, 2, 6] Count = 0
+Paul[6, 6, 6] Count = 0
+Thomas[6] Count = 0
+Judus[2, 6, 1, 1, 6] Count = 2
+Kenyes[5, 6, 4] Count = 1
+Samuel[4, 4] Count = 0
+Noah[3, 4] Count = 0
+God[4, 1, 3] Count = 1
+Holy Father[6, 2, 5] Count = 1
+Holy Spirit[3, 5, 1, 6] Count = 2
+Pope[4, 5, 5, 3] Count = 2
+Pope Francis [2, 4, 3, 3] Count = 0
+devil[6, 3, 6, 6] Count = 0
+Total Count = 15
+Challenge invalid; Round Loser is God
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #36
+Round #36 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for God
+Make a bid (Quantity & FaceValue)
+Bid made 47 of Face Value 1
+Round #36 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 3 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [47 dice of Face Value 1]
+Turn for Holy Father
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [47 dice of Face Value 1]...all dice shown:
+Matt[4, 1, 5] Count = 1
+Mark[2, 1, 1, 4] Count = 2
+Luke[6, 2] Count = 0
+John[4, 4, 3, 2] Count = 0
+Jesus[2, 3, 1] Count = 1
+Mary[1, 5, 4] Count = 1
+Peter[2, 6, 1] Count = 1
+Paul[5, 6, 5] Count = 0
+Thomas[6] Count = 0
+Judus[4, 3, 3, 2, 2] Count = 0
+Kenyes[5, 3, 2] Count = 0
+Samuel[4, 4] Count = 0
+Noah[1, 2] Count = 1
+God[2, 2] Count = 0
+Holy Father[1, 4, 2] Count = 1
+Holy Spirit[5, 2, 4, 4] Count = 0
+Pope[6, 1, 2, 6] Count = 1
+Pope Francis [2, 3, 6, 6] Count = 0
+devil[5, 6, 6, 6] Count = 0
+Total Count = 9
+Challenge invalid; Round Loser is Holy Father
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #37
+Round #37 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Holy Father
+Make a bid (Quantity & FaceValue)
+Bid made 20 of Face Value 6
+Round #37 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 4 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [20 dice of Face Value 6]
+Turn for Holy Spirit
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [20 dice of Face Value 6]...all dice shown:
+Matt[1, 2, 1] Count = 2
+Mark[4, 5, 1, 5] Count = 1
+Luke[4, 4] Count = 0
+John[1, 6, 5, 5] Count = 2
+Jesus[3, 5, 1] Count = 1
+Mary[5, 2, 6] Count = 1
+Peter[1, 6, 5] Count = 2
+Paul[6, 1, 3] Count = 2
+Thomas[6] Count = 1
+Judus[2, 3, 3, 3, 3] Count = 0
+Kenyes[1, 2, 6] Count = 2
+Samuel[6, 6] Count = 2
+Noah[1, 4] Count = 1
+God[1, 3] Count = 1
+Holy Father[3, 4] Count = 0
+Holy Spirit[6, 4, 4, 1] Count = 2
+Pope[6, 4, 3, 6] Count = 2
+Pope Francis [3, 3, 4, 2] Count = 0
+devil[5, 4, 3, 5] Count = 0
+Total Count = 22
+Challenge invalid; Round Loser is Holy Spirit
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #38
+Round #38 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Holy Spirit
+Make a bid (Quantity & FaceValue)
+Bid made 12 of Face Value 5
+Round #38 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 4 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [12 dice of Face Value 5]
+Turn for Pope
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [12 dice of Face Value 5]...all dice shown:
+Matt[4, 5, 4] Count = 1
+Mark[3, 2, 5, 1] Count = 2
+Luke[3, 1] Count = 1
+John[3, 4, 2, 6] Count = 0
+Jesus[3, 2, 3] Count = 0
+Mary[2, 6, 5] Count = 1
+Peter[4, 3, 2] Count = 0
+Paul[4, 1, 3] Count = 1
+Thomas[3] Count = 0
+Judus[5, 4, 6, 1, 1] Count = 3
+Kenyes[2, 6, 3] Count = 0
+Samuel[2, 6] Count = 0
+Noah[6, 4] Count = 0
+God[2, 5] Count = 1
+Holy Father[1, 6] Count = 1
+Holy Spirit[6, 1, 2] Count = 1
+Pope[1, 4, 3, 5] Count = 2
+Pope Francis [2, 6, 4, 1] Count = 1
+devil[3, 3, 4, 2] Count = 0
+Total Count = 15
+Challenge invalid; Round Loser is Pope
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #39
+Round #39 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Pope
+Make a bid (Quantity & FaceValue)
+Bid made 30 of Face Value 3
+Round #39 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [30 dice of Face Value 3]
+Turn for Pope Francis
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 55 of Face Value 3
+Round #39 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [55 dice of Face Value 3]
+Turn for devil
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 56 of Face Value 3
+Round #39 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [56 dice of Face Value 3]
+Turn for Matt
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 56 of Face Value 5
+Round #39 [Matt: 3 dice, Mark: 4 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [56 dice of Face Value 5]
+Turn for Mark
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [56 dice of Face Value 5]...all dice shown:
+Matt[6, 5, 6] Count = 1
+Mark[2, 6, 6, 2] Count = 0
+Luke[6, 1] Count = 1
+John[4, 4, 1, 4] Count = 1
+Jesus[3, 5, 2] Count = 1
+Mary[1, 1, 4] Count = 2
+Peter[4, 6, 3] Count = 0
+Paul[5, 6, 6] Count = 1
+Thomas[1] Count = 1
+Judus[1, 5, 1, 5, 4] Count = 4
+Kenyes[6, 1, 2] Count = 1
+Samuel[4, 5] Count = 1
+Noah[3, 4] Count = 0
+God[5, 1] Count = 2
+Holy Father[2, 6] Count = 0
+Holy Spirit[6, 4, 3] Count = 0
+Pope[5, 2, 2] Count = 1
+Pope Francis [2, 6, 6, 5] Count = 1
+devil[5, 1, 1, 5] Count = 4
+Total Count = 22
+Challenge invalid; Round Loser is Mark
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #40
+Round #40 [Matt: 3 dice, Mark: 3 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Mark
+Make a bid (Quantity & FaceValue)
+Bid made 6 of Face Value 0
+Round #40 [Matt: 3 dice, Mark: 3 dice, Luke: 2 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [6 dice of Face Value 0]
+Turn for Luke
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [6 dice of Face Value 0]...all dice shown:
+Matt[5, 6, 4] Count = 0
+Mark[6, 3, 3] Count = 0
+Luke[1, 2] Count = 1
+John[3, 2, 5, 2] Count = 0
+Jesus[3, 3, 2] Count = 0
+Mary[1, 1, 3] Count = 2
+Peter[5, 6, 6] Count = 0
+Paul[5, 2, 1] Count = 1
+Thomas[2] Count = 0
+Judus[4, 1, 4, 5, 5] Count = 1
+Kenyes[5, 4, 4] Count = 0
+Samuel[5, 3] Count = 0
+Noah[5, 5] Count = 0
+God[2, 4] Count = 0
+Holy Father[2, 1] Count = 1
+Holy Spirit[1, 2, 5] Count = 1
+Pope[4, 3, 4] Count = 0
+Pope Francis [5, 1, 3, 5] Count = 1
+devil[1, 3, 2, 4] Count = 1
+Total Count = 9
+Challenge invalid; Round Loser is Luke
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #41
+Round #41 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Luke
+Make a bid (Quantity & FaceValue)
+Bid made 7 of Face Value 4
+Round #41 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [7 dice of Face Value 4]
+Turn for John
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 25 of Face Value 4
+Round #41 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [25 dice of Face Value 4]
+Turn for Jesus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 43 of Face Value 4
+Round #41 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 3 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [43 dice of Face Value 4]
+Turn for Mary
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [43 dice of Face Value 4]...all dice shown:
+Matt[5, 6, 2] Count = 0
+Mark[3, 4, 4] Count = 2
+Luke[2] Count = 0
+John[4, 4, 4, 4] Count = 4
+Jesus[2, 2, 6] Count = 0
+Mary[2, 3, 2] Count = 0
+Peter[1, 5, 3] Count = 1
+Paul[2, 3, 3] Count = 0
+Thomas[5] Count = 0
+Judus[6, 4, 1, 5, 2] Count = 2
+Kenyes[2, 2, 5] Count = 0
+Samuel[1, 4] Count = 2
+Noah[2, 5] Count = 0
+God[4, 2] Count = 1
+Holy Father[3, 5] Count = 0
+Holy Spirit[2, 1, 6] Count = 1
+Pope[1, 5, 6] Count = 1
+Pope Francis [6, 2, 2, 2] Count = 0
+devil[4, 4, 4, 5] Count = 3
+Total Count = 17
+Challenge invalid; Round Loser is Mary
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #42
+Round #42 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Mary
+Make a bid (Quantity & FaceValue)
+Bid made 46 of Face Value 2
+Round #42 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 3 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [46 dice of Face Value 2]
+Turn for Peter
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [46 dice of Face Value 2]...all dice shown:
+Matt[5, 3, 2] Count = 1
+Mark[2, 5, 5] Count = 1
+Luke[1] Count = 1
+John[2, 4, 6, 3] Count = 1
+Jesus[6, 1, 4] Count = 1
+Mary[2, 2] Count = 2
+Peter[4, 3, 2] Count = 1
+Paul[1, 4, 6] Count = 1
+Thomas[5] Count = 0
+Judus[6, 2, 5, 5, 2] Count = 2
+Kenyes[3, 4, 4] Count = 0
+Samuel[6, 1] Count = 1
+Noah[3, 2] Count = 1
+God[3, 5] Count = 0
+Holy Father[5, 5] Count = 0
+Holy Spirit[5, 1, 6] Count = 1
+Pope[1, 6, 4] Count = 1
+Pope Francis [1, 1, 4, 2] Count = 3
+devil[4, 3, 5, 6] Count = 0
+Total Count = 18
+Challenge invalid; Round Loser is Peter
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #43
+Round #43 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Peter
+Make a bid (Quantity & FaceValue)
+Bid made 13 of Face Value 0
+Round #43 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [13 dice of Face Value 0]
+Turn for Paul
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 15 of Face Value 0
+Round #43 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Thomas: 1 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [15 dice of Face Value 0]
+Turn for Thomas
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [15 dice of Face Value 0]...all dice shown:
+Matt[1, 1, 5] Count = 2
+Mark[1, 2, 1] Count = 2
+Luke[3] Count = 0
+John[6, 5, 4, 5] Count = 0
+Jesus[4, 4, 6] Count = 0
+Mary[4, 2] Count = 0
+Peter[4, 4] Count = 0
+Paul[4, 3, 3] Count = 0
+Thomas[6] Count = 0
+Judus[2, 2, 2, 5, 6] Count = 0
+Kenyes[4, 2, 1] Count = 1
+Samuel[4, 6] Count = 0
+Noah[4, 4] Count = 0
+God[4, 3] Count = 0
+Holy Father[2, 2] Count = 0
+Holy Spirit[4, 3, 2] Count = 0
+Pope[4, 6, 4] Count = 0
+Pope Francis [6, 3, 6, 5] Count = 0
+devil[5, 2, 6, 6] Count = 0
+Total Count = 5
+Challenge invalid; Round Loser is Thomas
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #44
+Round #44 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Judus
+Make a bid (Quantity & FaceValue)
+Bid made 50 of Face Value 0
+Round #44 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 3 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [50 dice of Face Value 0]
+Turn for Kenyes
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [50 dice of Face Value 0]...all dice shown:
+Matt[4, 2, 1] Count = 1
+Mark[2, 4, 6] Count = 0
+Luke[2] Count = 0
+John[2, 4, 1, 1] Count = 2
+Jesus[6, 6, 6] Count = 0
+Mary[2, 1] Count = 1
+Peter[6, 5] Count = 0
+Paul[2, 2, 1] Count = 1
+Judus[6, 1, 5, 1, 6] Count = 2
+Kenyes[6, 4, 6] Count = 0
+Samuel[6, 1] Count = 1
+Noah[1, 6] Count = 1
+God[2, 6] Count = 0
+Holy Father[3, 5] Count = 0
+Holy Spirit[4, 4, 2] Count = 0
+Pope[2, 1, 1] Count = 2
+Pope Francis [6, 5, 4, 5] Count = 0
+devil[2, 4, 6, 6] Count = 0
+Total Count = 11
+Challenge invalid; Round Loser is Kenyes
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #45
+Round #45 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Kenyes
+Make a bid (Quantity & FaceValue)
+Bid made 22 of Face Value 0
+Round #45 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 2 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [22 dice of Face Value 0]
+Turn for Samuel
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [22 dice of Face Value 0]...all dice shown:
+Matt[5, 1, 5] Count = 1
+Mark[1, 4, 3] Count = 1
+Luke[1] Count = 1
+John[1, 3, 2, 6] Count = 1
+Jesus[6, 6, 3] Count = 0
+Mary[6, 4] Count = 0
+Peter[3, 1] Count = 1
+Paul[5, 2, 1] Count = 1
+Judus[5, 6, 6, 6, 2] Count = 0
+Kenyes[3, 2] Count = 0
+Samuel[5, 1] Count = 1
+Noah[4, 3] Count = 0
+God[1, 1] Count = 2
+Holy Father[6, 3] Count = 0
+Holy Spirit[3, 1, 2] Count = 1
+Pope[6, 5, 4] Count = 0
+Pope Francis [6, 2, 6, 1] Count = 1
+devil[4, 2, 3, 2] Count = 0
+Total Count = 11
+Challenge invalid; Round Loser is Samuel
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #46
+Round #46 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Samuel
+Make a bid (Quantity & FaceValue)
+Bid made 28 of Face Value 4
+Round #46 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [28 dice of Face Value 4]
+Turn for Noah
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 48 of Face Value 4
+Round #46 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [48 dice of Face Value 4]
+Turn for God
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 48 of Face Value 5
+Round #46 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 2 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [48 dice of Face Value 5]
+Turn for Holy Father
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [48 dice of Face Value 5]...all dice shown:
+Matt[4, 6, 3] Count = 0
+Mark[2, 4, 6] Count = 0
+Luke[6] Count = 0
+John[2, 3, 5, 1] Count = 2
+Jesus[1, 2, 1] Count = 2
+Mary[1, 1] Count = 2
+Peter[2, 4] Count = 0
+Paul[3, 4, 4] Count = 0
+Judus[5, 6, 4, 3, 6] Count = 1
+Kenyes[4, 4] Count = 0
+Samuel[5] Count = 1
+Noah[4, 3] Count = 0
+God[3, 4] Count = 0
+Holy Father[4, 4] Count = 0
+Holy Spirit[1, 3, 3] Count = 1
+Pope[4, 5, 6] Count = 1
+Pope Francis [2, 6, 5, 6] Count = 1
+devil[2, 5, 2, 5] Count = 2
+Total Count = 13
+Challenge invalid; Round Loser is Holy Father
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #47
+Round #47 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice]
+Turn for Holy Father
+Make a bid (Quantity & FaceValue)
+Bid made 14 of Face Value 3
+Round #47 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [14 dice of Face Value 3]
+Turn for Holy Spirit
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 14 of Face Value 5
+Round #47 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [14 dice of Face Value 5]
+Turn for Pope
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 32 of Face Value 5
+Round #47 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 4 dice, devil: 4 dice] Last Bid: [32 dice of Face Value 5]
+Turn for Pope Francis
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [32 dice of Face Value 5]...all dice shown:
+Matt[1, 6, 3] Count = 1
+Mark[1, 3, 6] Count = 1
+Luke[6] Count = 0
+John[6, 5, 3, 2] Count = 1
+Jesus[4, 2, 3] Count = 0
+Mary[4, 4] Count = 0
+Peter[6, 6] Count = 0
+Paul[2, 6, 1] Count = 1
+Judus[5, 1, 1, 2, 4] Count = 3
+Kenyes[1, 6] Count = 1
+Samuel[5] Count = 1
+Noah[4, 6] Count = 0
+God[1, 5] Count = 2
+Holy Father[1] Count = 1
+Holy Spirit[4, 5, 1] Count = 2
+Pope[3, 1, 6] Count = 1
+Pope Francis [6, 2, 6, 1] Count = 1
+devil[6, 1, 3, 3] Count = 1
+Total Count = 17
+Challenge invalid; Round Loser is Pope Francis
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #48
+Round #48 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Pope Francis
+Make a bid (Quantity & FaceValue)
+Bid made 14 of Face Value 4
+Round #48 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [14 dice of Face Value 4]
+Turn for devil
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 14 of Face Value 5
+Round #48 [Matt: 3 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [14 dice of Face Value 5]
+Turn for Matt
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [14 dice of Face Value 5]...all dice shown:
+Matt[5, 4, 2] Count = 1
+Mark[2, 4, 2] Count = 0
+Luke[3] Count = 0
+John[5, 6, 4, 1] Count = 2
+Jesus[1, 6, 3] Count = 1
+Mary[2, 2] Count = 0
+Peter[4, 5] Count = 1
+Paul[6, 5, 5] Count = 2
+Judus[2, 6, 5, 4, 4] Count = 1
+Kenyes[1, 5] Count = 2
+Samuel[2] Count = 0
+Noah[6, 3] Count = 0
+God[3, 5] Count = 1
+Holy Father[6] Count = 0
+Holy Spirit[1, 2, 5] Count = 2
+Pope[1, 4, 6] Count = 1
+Pope Francis [6, 6, 4] Count = 0
+devil[2, 5, 1, 3] Count = 2
+Total Count = 16
+Challenge invalid; Round Loser is Matt
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #49
+Round #49 [Matt: 2 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Matt
+Make a bid (Quantity & FaceValue)
+Bid made 7 of Face Value 5
+Round #49 [Matt: 2 dice, Mark: 3 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [7 dice of Face Value 5]
+Turn for Mark
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [7 dice of Face Value 5]...all dice shown:
+Matt[4, 3] Count = 0
+Mark[4, 6, 3] Count = 0
+Luke[2] Count = 0
+John[5, 1, 1, 6] Count = 3
+Jesus[6, 2, 5] Count = 1
+Mary[5, 2] Count = 1
+Peter[4, 6] Count = 0
+Paul[6, 4, 2] Count = 0
+Judus[6, 2, 2, 3, 1] Count = 1
+Kenyes[1, 1] Count = 2
+Samuel[4] Count = 0
+Noah[2, 2] Count = 0
+God[5, 3] Count = 1
+Holy Father[1] Count = 1
+Holy Spirit[3, 6, 2] Count = 0
+Pope[3, 2, 4] Count = 0
+Pope Francis [3, 4, 5] Count = 1
+devil[5, 3, 1, 2] Count = 2
+Total Count = 13
+Challenge invalid; Round Loser is Mark
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #50
+Round #50 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Mark
+Make a bid (Quantity & FaceValue)
+Bid made 37 of Face Value 3
+Round #50 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [37 dice of Face Value 3]
+Turn for Luke
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 39 of Face Value 3
+Round #50 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [39 dice of Face Value 3]
+Turn for John
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 41 of Face Value 3
+Round #50 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [41 dice of Face Value 3]
+Turn for Jesus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 42 of Face Value 3
+Round #50 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [42 dice of Face Value 3]
+Turn for Mary
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 42 of Face Value 5
+Round #50 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [42 dice of Face Value 5]
+Turn for Peter
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 44 of Face Value 5
+Round #50 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 3 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [44 dice of Face Value 5]
+Turn for Paul
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [44 dice of Face Value 5]...all dice shown:
+Matt[3, 1] Count = 1
+Mark[5, 2] Count = 1
+Luke[1] Count = 1
+John[2, 3, 4, 3] Count = 0
+Jesus[5, 4, 4] Count = 1
+Mary[4, 3] Count = 0
+Peter[1, 4] Count = 1
+Paul[4, 3, 4] Count = 0
+Judus[4, 3, 1, 4, 5] Count = 2
+Kenyes[4, 1] Count = 1
+Samuel[1] Count = 1
+Noah[5, 6] Count = 1
+God[5, 3] Count = 1
+Holy Father[2] Count = 0
+Holy Spirit[2, 2, 6] Count = 0
+Pope[4, 4, 1] Count = 1
+Pope Francis [5, 1, 6] Count = 2
+devil[1, 2, 1, 4] Count = 2
+Total Count = 16
+Challenge invalid; Round Loser is Paul
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #51
+Round #51 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Paul
+Make a bid (Quantity & FaceValue)
+Bid made 34 of Face Value 0
+Round #51 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [34 dice of Face Value 0]
+Turn for Judus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 44 of Face Value 0
+Round #51 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [44 dice of Face Value 0]
+Turn for Kenyes
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 44 of Face Value 3
+Round #51 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [44 dice of Face Value 3]
+Turn for Samuel
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 44 of Face Value 6
+Round #51 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 2 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [44 dice of Face Value 6]
+Turn for Noah
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [44 dice of Face Value 6]...all dice shown:
+Matt[3, 2] Count = 0
+Mark[1, 6] Count = 2
+Luke[6] Count = 1
+John[6, 6, 3, 1] Count = 3
+Jesus[6, 5, 5] Count = 1
+Mary[2, 3] Count = 0
+Peter[3, 2] Count = 0
+Paul[2, 2] Count = 0
+Judus[5, 5, 5, 1, 6] Count = 2
+Kenyes[6, 1] Count = 2
+Samuel[3] Count = 0
+Noah[2, 2] Count = 0
+God[2, 1] Count = 1
+Holy Father[5] Count = 0
+Holy Spirit[3, 4, 3] Count = 0
+Pope[1, 5, 4] Count = 1
+Pope Francis [1, 4, 2] Count = 1
+devil[6, 5, 5, 1] Count = 2
+Total Count = 16
+Challenge invalid; Round Loser is Noah
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #52
+Round #52 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Noah
+Make a bid (Quantity & FaceValue)
+Bid made 15 of Face Value 1
+Round #52 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 2 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [15 dice of Face Value 1]
+Turn for God
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [15 dice of Face Value 1]...all dice shown:
+Matt[3, 6] Count = 0
+Mark[1, 5] Count = 1
+Luke[3] Count = 0
+John[3, 6, 1, 3] Count = 1
+Jesus[4, 1, 3] Count = 1
+Mary[3, 4] Count = 0
+Peter[1, 4] Count = 1
+Paul[6, 5] Count = 0
+Judus[5, 5, 3, 1, 5] Count = 1
+Kenyes[2, 6] Count = 0
+Samuel[4] Count = 0
+Noah[3] Count = 0
+God[5, 1] Count = 1
+Holy Father[4] Count = 0
+Holy Spirit[5, 1, 5] Count = 1
+Pope[1, 6, 1] Count = 2
+Pope Francis [6, 1, 3] Count = 1
+devil[5, 3, 4, 4] Count = 0
+Total Count = 10
+Challenge invalid; Round Loser is God
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #53
+Round #53 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for God
+Make a bid (Quantity & FaceValue)
+Bid made 26 of Face Value 2
+Round #53 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [26 dice of Face Value 2]
+Turn for Holy Father
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 27 of Face Value 2
+Round #53 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 3 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [27 dice of Face Value 2]
+Turn for Holy Spirit
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [27 dice of Face Value 2]...all dice shown:
+Matt[5, 2] Count = 1
+Mark[4, 6] Count = 0
+Luke[2] Count = 1
+John[1, 2, 1, 1] Count = 4
+Jesus[1, 6, 1] Count = 2
+Mary[2, 2] Count = 2
+Peter[4, 5] Count = 0
+Paul[6, 3] Count = 0
+Judus[3, 2, 5, 4, 5] Count = 1
+Kenyes[4, 4] Count = 0
+Samuel[3] Count = 0
+Noah[1] Count = 1
+God[3] Count = 0
+Holy Father[4] Count = 0
+Holy Spirit[3, 5, 3] Count = 0
+Pope[3, 1, 5] Count = 1
+Pope Francis [4, 5, 5] Count = 0
+devil[3, 3, 6, 6] Count = 0
+Total Count = 13
+Challenge invalid; Round Loser is Holy Spirit
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #54
+Round #54 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Holy Spirit
+Make a bid (Quantity & FaceValue)
+Bid made 36 of Face Value 0
+Round #54 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [36 dice of Face Value 0]
+Turn for Pope
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 40 of Face Value 0
+Round #54 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [40 dice of Face Value 0]
+Turn for Pope Francis
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 40 of Face Value 5
+Round #54 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [40 dice of Face Value 5]
+Turn for devil
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 41 of Face Value 5
+Round #54 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [41 dice of Face Value 5]
+Turn for Matt
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 41 of Face Value 6
+Round #54 [Matt: 2 dice, Mark: 2 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [41 dice of Face Value 6]
+Turn for Mark
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [41 dice of Face Value 6]...all dice shown:
+Matt[4, 3] Count = 0
+Mark[5, 1] Count = 1
+Luke[3] Count = 0
+John[2, 2, 6, 1] Count = 2
+Jesus[5, 6, 3] Count = 1
+Mary[5, 5] Count = 0
+Peter[5, 2] Count = 0
+Paul[5, 2] Count = 0
+Judus[2, 3, 1, 6, 5] Count = 2
+Kenyes[3, 2] Count = 0
+Samuel[5] Count = 0
+Noah[3] Count = 0
+God[3] Count = 0
+Holy Father[2] Count = 0
+Holy Spirit[2, 3] Count = 0
+Pope[5, 1, 4] Count = 1
+Pope Francis [2, 1, 1] Count = 2
+devil[4, 6, 4, 4] Count = 1
+Total Count = 10
+Challenge invalid; Round Loser is Mark
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #55
+Round #55 [Matt: 2 dice, Mark: 1 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Mark
+Make a bid (Quantity & FaceValue)
+Bid made 38 of Face Value 3
+Round #55 [Matt: 2 dice, Mark: 1 dice, Luke: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [38 dice of Face Value 3]
+Turn for Luke
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [38 dice of Face Value 3]...all dice shown:
+Matt[4, 5] Count = 0
+Mark[1] Count = 1
+Luke[4] Count = 0
+John[5, 1, 4, 4] Count = 1
+Jesus[4, 3, 2] Count = 1
+Mary[5, 6] Count = 0
+Peter[5, 3] Count = 1
+Paul[6, 1] Count = 1
+Judus[3, 5, 1, 1, 4] Count = 3
+Kenyes[4, 5] Count = 0
+Samuel[5] Count = 0
+Noah[5] Count = 0
+God[5] Count = 0
+Holy Father[5] Count = 0
+Holy Spirit[4, 3] Count = 1
+Pope[1, 2, 2] Count = 1
+Pope Francis [5, 2, 5] Count = 0
+devil[6, 4, 3, 2] Count = 1
+Total Count = 11
+Challenge invalid; Round Loser is Luke
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #56
+Round #56 [Matt: 2 dice, Mark: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for John
+Make a bid (Quantity & FaceValue)
+Bid made 11 of Face Value 2
+Round #56 [Matt: 2 dice, Mark: 1 dice, John: 4 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [11 dice of Face Value 2]
+Turn for Jesus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [11 dice of Face Value 2]...all dice shown:
+Matt[1, 4] Count = 1
+Mark[6] Count = 0
+John[4, 2, 1, 3] Count = 2
+Jesus[1, 5, 5] Count = 1
+Mary[4, 5] Count = 0
+Peter[5, 1] Count = 1
+Paul[1, 4] Count = 1
+Judus[4, 6, 6, 1, 6] Count = 1
+Kenyes[4, 2] Count = 1
+Samuel[3] Count = 0
+Noah[4] Count = 0
+God[4] Count = 0
+Holy Father[4] Count = 0
+Holy Spirit[5, 6] Count = 0
+Pope[3, 6, 1] Count = 1
+Pope Francis [4, 3, 1] Count = 1
+devil[5, 5, 6, 1] Count = 1
+Total Count = 11
+Challenge valid; Round Loser is John
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #57
+Round #57 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for John
+Make a bid (Quantity & FaceValue)
+Bid made 2 of Face Value 4
+Round #57 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 3 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [2 dice of Face Value 4]
+Turn for Jesus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [2 dice of Face Value 4]...all dice shown:
+Matt[1, 1] Count = 2
+Mark[6] Count = 0
+John[1, 1, 1] Count = 3
+Jesus[4, 3, 4] Count = 2
+Mary[6, 5] Count = 0
+Peter[6, 2] Count = 0
+Paul[4, 6] Count = 1
+Judus[5, 3, 3, 2, 1] Count = 1
+Kenyes[5, 5] Count = 0
+Samuel[1] Count = 1
+Noah[3] Count = 0
+God[4] Count = 1
+Holy Father[2] Count = 0
+Holy Spirit[1, 2] Count = 1
+Pope[6, 1, 6] Count = 1
+Pope Francis [1, 6, 6] Count = 1
+devil[5, 6, 5, 2] Count = 0
+Total Count = 14
+Challenge invalid; Round Loser is Jesus
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #58
+Round #58 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Jesus
+Make a bid (Quantity & FaceValue)
+Bid made 8 of Face Value 3
+Round #58 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [8 dice of Face Value 3]
+Turn for Mary
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 10 of Face Value 3
+Round #58 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 2 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [10 dice of Face Value 3]
+Turn for Peter
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [10 dice of Face Value 3]...all dice shown:
+Matt[1, 3] Count = 2
+Mark[3] Count = 1
+John[2, 6, 6] Count = 0
+Jesus[2, 6] Count = 0
+Mary[3, 4] Count = 1
+Peter[4, 2] Count = 0
+Paul[3, 4] Count = 1
+Judus[5, 6, 4, 6, 5] Count = 0
+Kenyes[4, 6] Count = 0
+Samuel[1] Count = 1
+Noah[3] Count = 1
+God[3] Count = 1
+Holy Father[5] Count = 0
+Holy Spirit[3, 6] Count = 1
+Pope[2, 5, 3] Count = 1
+Pope Francis [2, 6, 1] Count = 1
+devil[5, 1, 5, 6] Count = 1
+Total Count = 12
+Challenge invalid; Round Loser is Peter
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #59
+Round #59 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Peter
+Make a bid (Quantity & FaceValue)
+Bid made 31 of Face Value 2
+Round #59 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [31 dice of Face Value 2]
+Turn for Paul
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 31 of Face Value 4
+Round #59 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 5 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [31 dice of Face Value 4]
+Turn for Judus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [31 dice of Face Value 4]...all dice shown:
+Matt[1, 1] Count = 2
+Mark[2] Count = 0
+John[2, 4, 4] Count = 2
+Jesus[2, 5] Count = 0
+Mary[2, 6] Count = 0
+Peter[3] Count = 0
+Paul[6, 1] Count = 1
+Judus[3, 5, 2, 6, 5] Count = 0
+Kenyes[5, 5] Count = 0
+Samuel[5] Count = 0
+Noah[6] Count = 0
+God[1] Count = 1
+Holy Father[2] Count = 0
+Holy Spirit[4, 6] Count = 1
+Pope[3, 5, 2] Count = 0
+Pope Francis [1, 3, 4] Count = 2
+devil[2, 5, 3, 3] Count = 0
+Total Count = 9
+Challenge invalid; Round Loser is Judus
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #60
+Round #60 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Judus
+Make a bid (Quantity & FaceValue)
+Bid made 3 of Face Value 5
+Round #60 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [3 dice of Face Value 5]
+Turn for Kenyes
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 12 of Face Value 5
+Round #60 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [12 dice of Face Value 5]
+Turn for Samuel
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 17 of Face Value 5
+Round #60 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [17 dice of Face Value 5]
+Turn for Noah
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 35 of Face Value 5
+Round #60 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, God: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [35 dice of Face Value 5]
+Turn for God
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [35 dice of Face Value 5]...all dice shown:
+Matt[3, 3] Count = 0
+Mark[6] Count = 0
+John[4, 2, 3] Count = 0
+Jesus[3, 1] Count = 1
+Mary[1, 5] Count = 2
+Peter[6] Count = 0
+Paul[1, 3] Count = 1
+Judus[2, 3, 5, 4] Count = 1
+Kenyes[3, 4] Count = 0
+Samuel[6] Count = 0
+Noah[1] Count = 1
+God[5] Count = 1
+Holy Father[3] Count = 0
+Holy Spirit[3, 4] Count = 0
+Pope[4, 1, 3] Count = 1
+Pope Francis [3, 4, 3] Count = 0
+devil[2, 2, 3, 4] Count = 0
+Total Count = 8
+Challenge invalid; Round Loser is God
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #61
+Round #61 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Holy Father
+Make a bid (Quantity & FaceValue)
+Bid made 16 of Face Value 1
+Round #61 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [16 dice of Face Value 1]
+Turn for Holy Spirit
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 16 of Face Value 2
+Round #61 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 3 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [16 dice of Face Value 2]
+Turn for Pope
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [16 dice of Face Value 2]...all dice shown:
+Matt[2, 2] Count = 2
+Mark[2] Count = 1
+John[3, 1, 3] Count = 1
+Jesus[5, 2] Count = 1
+Mary[6, 4] Count = 0
+Peter[2] Count = 1
+Paul[1, 5] Count = 1
+Judus[2, 5, 6, 4] Count = 1
+Kenyes[3, 1] Count = 1
+Samuel[1] Count = 1
+Noah[3] Count = 0
+Holy Father[2] Count = 1
+Holy Spirit[4, 5] Count = 0
+Pope[4, 6, 1] Count = 1
+Pope Francis [5, 5, 4] Count = 0
+devil[2, 3, 2, 6] Count = 2
+Total Count = 14
+Challenge invalid; Round Loser is Pope
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #62
+Round #62 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Pope
+Make a bid (Quantity & FaceValue)
+Bid made 31 of Face Value 6
+Round #62 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [31 dice of Face Value 6]
+Turn for Pope Francis
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 32 of Face Value 6
+Round #62 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [32 dice of Face Value 6]
+Turn for devil
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 33 of Face Value 6
+Round #62 [Matt: 2 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [33 dice of Face Value 6]
+Turn for Matt
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [33 dice of Face Value 6]...all dice shown:
+Matt[3, 3] Count = 0
+Mark[5] Count = 0
+John[5, 5, 6] Count = 1
+Jesus[3, 4] Count = 0
+Mary[2, 2] Count = 0
+Peter[2] Count = 0
+Paul[3, 3] Count = 0
+Judus[2, 1, 3, 6] Count = 2
+Kenyes[1, 3] Count = 1
+Samuel[5] Count = 0
+Noah[2] Count = 0
+Holy Father[3] Count = 0
+Holy Spirit[1, 5] Count = 1
+Pope[2, 3] Count = 0
+Pope Francis [1, 5, 5] Count = 1
+devil[2, 4, 5, 6] Count = 1
+Total Count = 7
+Challenge invalid; Round Loser is Matt
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #63
+Round #63 [Matt: 1 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Matt
+Make a bid (Quantity & FaceValue)
+Bid made 28 of Face Value 0
+Round #63 [Matt: 1 dice, Mark: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [28 dice of Face Value 0]
+Turn for Mark
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [28 dice of Face Value 0]...all dice shown:
+Matt[1] Count = 1
+Mark[4] Count = 0
+John[4, 4, 1] Count = 1
+Jesus[3, 3] Count = 0
+Mary[1, 6] Count = 1
+Peter[3] Count = 0
+Paul[1, 6] Count = 1
+Judus[4, 4, 2, 2] Count = 0
+Kenyes[3, 2] Count = 0
+Samuel[2] Count = 0
+Noah[1] Count = 1
+Holy Father[6] Count = 0
+Holy Spirit[3, 2] Count = 0
+Pope[3, 4] Count = 0
+Pope Francis [6, 5, 2] Count = 0
+devil[2, 6, 6, 5] Count = 0
+Total Count = 5
+Challenge invalid; Round Loser is Mark
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #64
+Round #64 [Matt: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for John
+Make a bid (Quantity & FaceValue)
+Bid made 13 of Face Value 6
+Round #64 [Matt: 1 dice, John: 3 dice, Jesus: 2 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [13 dice of Face Value 6]
+Turn for Jesus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [13 dice of Face Value 6]...all dice shown:
+Matt[4] Count = 0
+John[3, 2, 6] Count = 1
+Jesus[3, 2] Count = 0
+Mary[5, 3] Count = 0
+Peter[4] Count = 0
+Paul[4, 2] Count = 0
+Judus[1, 3, 4, 3] Count = 1
+Kenyes[4, 1] Count = 1
+Samuel[5] Count = 0
+Noah[6] Count = 1
+Holy Father[4] Count = 0
+Holy Spirit[2, 5] Count = 0
+Pope[6, 6] Count = 2
+Pope Francis [6, 5, 6] Count = 2
+devil[2, 6, 2, 4] Count = 1
+Total Count = 9
+Challenge invalid; Round Loser is Jesus
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #65
+Round #65 [Matt: 1 dice, John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Jesus
+Make a bid (Quantity & FaceValue)
+Bid made 3 of Face Value 0
+Round #65 [Matt: 1 dice, John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [3 dice of Face Value 0]
+Turn for Mary
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 7 of Face Value 0
+Round #65 [Matt: 1 dice, John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Peter: 1 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [7 dice of Face Value 0]
+Turn for Peter
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [7 dice of Face Value 0]...all dice shown:
+Matt[1] Count = 1
+John[3, 3, 4] Count = 0
+Jesus[4] Count = 0
+Mary[2, 2] Count = 0
+Peter[4] Count = 0
+Paul[3, 6] Count = 0
+Judus[2, 3, 5, 4] Count = 0
+Kenyes[6, 2] Count = 0
+Samuel[6] Count = 0
+Noah[4] Count = 0
+Holy Father[1] Count = 1
+Holy Spirit[3, 5] Count = 0
+Pope[6, 5] Count = 0
+Pope Francis [3, 2, 5] Count = 0
+devil[6, 5, 1, 4] Count = 1
+Total Count = 3
+Challenge invalid; Round Loser is Peter
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #66
+Round #66 [Matt: 1 dice, John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Paul
+Make a bid (Quantity & FaceValue)
+Bid made 12 of Face Value 0
+Round #66 [Matt: 1 dice, John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Paul: 2 dice, Judus: 4 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [12 dice of Face Value 0]
+Turn for Judus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [12 dice of Face Value 0]...all dice shown:
+Matt[3] Count = 0
+John[1, 2, 3] Count = 1
+Jesus[2] Count = 0
+Mary[6, 2] Count = 0
+Paul[6, 5] Count = 0
+Judus[5, 3, 3, 3] Count = 0
+Kenyes[2, 3] Count = 0
+Samuel[5] Count = 0
+Noah[4] Count = 0
+Holy Father[3] Count = 0
+Holy Spirit[6, 6] Count = 0
+Pope[6, 3] Count = 0
+Pope Francis [5, 5, 1] Count = 1
+devil[4, 2, 5, 4] Count = 0
+Total Count = 2
+Challenge invalid; Round Loser is Judus
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #67
+Round #67 [Matt: 1 dice, John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Judus
+Make a bid (Quantity & FaceValue)
+Bid made 12 of Face Value 6
+Round #67 [Matt: 1 dice, John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [12 dice of Face Value 6]
+Turn for Kenyes
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 25 of Face Value 6
+Round #67 [Matt: 1 dice, John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Samuel: 1 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [25 dice of Face Value 6]
+Turn for Samuel
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [25 dice of Face Value 6]...all dice shown:
+Matt[2] Count = 0
+John[3, 2, 4] Count = 0
+Jesus[6] Count = 1
+Mary[6, 6] Count = 2
+Paul[4, 3] Count = 0
+Judus[2, 5, 5] Count = 0
+Kenyes[3, 6] Count = 1
+Samuel[6] Count = 1
+Noah[5] Count = 0
+Holy Father[1] Count = 1
+Holy Spirit[6, 1] Count = 2
+Pope[6, 4] Count = 1
+Pope Francis [3, 6, 3] Count = 1
+devil[5, 1, 3, 5] Count = 1
+Total Count = 11
+Challenge invalid; Round Loser is Samuel
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #68
+Round #68 [Matt: 1 dice, John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Noah
+Make a bid (Quantity & FaceValue)
+Bid made 10 of Face Value 2
+Round #68 [Matt: 1 dice, John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Noah: 1 dice, Holy Father: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [10 dice of Face Value 2]
+Turn for Holy Father
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [10 dice of Face Value 2]...all dice shown:
+Matt[5] Count = 0
+John[4, 3, 2] Count = 1
+Jesus[4] Count = 0
+Mary[1, 4] Count = 1
+Paul[6, 5] Count = 0
+Judus[6, 3, 3] Count = 0
+Kenyes[1, 1] Count = 2
+Noah[2] Count = 1
+Holy Father[4] Count = 0
+Holy Spirit[4, 2] Count = 1
+Pope[3, 6] Count = 0
+Pope Francis [6, 5, 6] Count = 0
+devil[6, 3, 2, 1] Count = 2
+Total Count = 8
+Challenge invalid; Round Loser is Holy Father
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #69
+Round #69 [Matt: 1 dice, John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Noah: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Holy Spirit
+Make a bid (Quantity & FaceValue)
+Bid made 9 of Face Value 3
+Round #69 [Matt: 1 dice, John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Noah: 1 dice, Holy Spirit: 2 dice, Pope: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [9 dice of Face Value 3]
+Turn for Pope
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [9 dice of Face Value 3]...all dice shown:
+Matt[6] Count = 0
+John[4, 4, 1] Count = 1
+Jesus[4] Count = 0
+Mary[1, 2] Count = 1
+Paul[4, 4] Count = 0
+Judus[5, 3, 5] Count = 1
+Kenyes[5, 3] Count = 1
+Noah[5] Count = 0
+Holy Spirit[5, 5] Count = 0
+Pope[6, 4] Count = 0
+Pope Francis [4, 6, 2] Count = 0
+devil[1, 3, 3, 5] Count = 3
+Total Count = 7
+Challenge invalid; Round Loser is Pope
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #70
+Round #70 [Matt: 1 dice, John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Noah: 1 dice, Holy Spirit: 2 dice, Pope: 1 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Pope
+Make a bid (Quantity & FaceValue)
+Bid made 8 of Face Value 3
+Round #70 [Matt: 1 dice, John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Noah: 1 dice, Holy Spirit: 2 dice, Pope: 1 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [8 dice of Face Value 3]
+Turn for Pope Francis
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [8 dice of Face Value 3]...all dice shown:
+Matt[3] Count = 1
+John[6, 6, 4] Count = 0
+Jesus[1] Count = 1
+Mary[6, 6] Count = 0
+Paul[6, 1] Count = 1
+Judus[5, 4, 1] Count = 1
+Kenyes[2, 5] Count = 0
+Noah[2] Count = 0
+Holy Spirit[6, 3] Count = 1
+Pope[3] Count = 1
+Pope Francis [6, 5, 4] Count = 0
+devil[1, 3, 5, 4] Count = 2
+Total Count = 8
+Challenge valid; Round Loser is Pope
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #71
+Round #71 [Matt: 1 dice, John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Noah: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Pope Francis
+Make a bid (Quantity & FaceValue)
+Bid made 3 of Face Value 0
+Round #71 [Matt: 1 dice, John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Noah: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [3 dice of Face Value 0]
+Turn for devil
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 17 of Face Value 0
+Round #71 [Matt: 1 dice, John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Noah: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [17 dice of Face Value 0]
+Turn for Matt
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [17 dice of Face Value 0]...all dice shown:
+Matt[4] Count = 0
+John[4, 6, 2] Count = 0
+Jesus[4] Count = 0
+Mary[5, 1] Count = 1
+Paul[1, 2] Count = 1
+Judus[1, 2, 6] Count = 1
+Kenyes[5, 3] Count = 0
+Noah[3] Count = 0
+Holy Spirit[3, 1] Count = 1
+Pope Francis [6, 6, 3] Count = 0
+devil[3, 1, 4, 6] Count = 1
+Total Count = 5
+Challenge invalid; Round Loser is Matt
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #72
+Round #72 [John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Noah: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for John
+Make a bid (Quantity & FaceValue)
+Bid made 11 of Face Value 2
+Round #72 [John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Noah: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [11 dice of Face Value 2]
+Turn for Jesus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 11 of Face Value 4
+Round #72 [John: 3 dice, Jesus: 1 dice, Mary: 2 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Noah: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [11 dice of Face Value 4]
+Turn for Mary
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [11 dice of Face Value 4]...all dice shown:
+John[2, 3, 2] Count = 0
+Jesus[4] Count = 1
+Mary[1, 6] Count = 1
+Paul[1, 5] Count = 1
+Judus[3, 4, 3] Count = 1
+Kenyes[1, 5] Count = 1
+Noah[5] Count = 0
+Holy Spirit[5, 5] Count = 0
+Pope Francis [6, 4, 4] Count = 2
+devil[5, 2, 3, 5] Count = 0
+Total Count = 7
+Challenge invalid; Round Loser is Mary
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #73
+Round #73 [John: 3 dice, Jesus: 1 dice, Mary: 1 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Noah: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Mary
+Make a bid (Quantity & FaceValue)
+Bid made 14 of Face Value 0
+Round #73 [John: 3 dice, Jesus: 1 dice, Mary: 1 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Noah: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [14 dice of Face Value 0]
+Turn for Paul
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 17 of Face Value 0
+Round #73 [John: 3 dice, Jesus: 1 dice, Mary: 1 dice, Paul: 2 dice, Judus: 3 dice, Kenyes: 2 dice, Noah: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [17 dice of Face Value 0]
+Turn for Judus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [17 dice of Face Value 0]...all dice shown:
+John[1, 5, 5] Count = 1
+Jesus[3] Count = 0
+Mary[4] Count = 0
+Paul[4, 4] Count = 0
+Judus[6, 3, 4] Count = 0
+Kenyes[6, 2] Count = 0
+Noah[6] Count = 0
+Holy Spirit[3, 2] Count = 0
+Pope Francis [5, 1, 3] Count = 1
+devil[2, 1, 6, 6] Count = 1
+Total Count = 3
+Challenge invalid; Round Loser is Judus
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #74
+Round #74 [John: 3 dice, Jesus: 1 dice, Mary: 1 dice, Paul: 2 dice, Judus: 2 dice, Kenyes: 2 dice, Noah: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Judus
+Make a bid (Quantity & FaceValue)
+Bid made 9 of Face Value 2
+Round #74 [John: 3 dice, Jesus: 1 dice, Mary: 1 dice, Paul: 2 dice, Judus: 2 dice, Kenyes: 2 dice, Noah: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [9 dice of Face Value 2]
+Turn for Kenyes
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [9 dice of Face Value 2]...all dice shown:
+John[1, 1, 3] Count = 2
+Jesus[2] Count = 1
+Mary[5] Count = 0
+Paul[6, 2] Count = 1
+Judus[1, 6] Count = 1
+Kenyes[5, 1] Count = 1
+Noah[2] Count = 1
+Holy Spirit[3, 5] Count = 0
+Pope Francis [3, 5, 3] Count = 0
+devil[2, 2, 6, 2] Count = 3
+Total Count = 10
+Challenge invalid; Round Loser is Kenyes
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #75
+Round #75 [John: 3 dice, Jesus: 1 dice, Mary: 1 dice, Paul: 2 dice, Judus: 2 dice, Kenyes: 1 dice, Noah: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Kenyes
+Make a bid (Quantity & FaceValue)
+Bid made 18 of Face Value 6
+Round #75 [John: 3 dice, Jesus: 1 dice, Mary: 1 dice, Paul: 2 dice, Judus: 2 dice, Kenyes: 1 dice, Noah: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [18 dice of Face Value 6]
+Turn for Noah
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [18 dice of Face Value 6]...all dice shown:
+John[6, 3, 1] Count = 2
+Jesus[5] Count = 0
+Mary[3] Count = 0
+Paul[5, 2] Count = 0
+Judus[2, 5] Count = 0
+Kenyes[6] Count = 1
+Noah[2] Count = 0
+Holy Spirit[5, 1] Count = 1
+Pope Francis [2, 6, 2] Count = 1
+devil[3, 5, 5, 3] Count = 0
+Total Count = 5
+Challenge invalid; Round Loser is Noah
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #76
+Round #76 [John: 3 dice, Jesus: 1 dice, Mary: 1 dice, Paul: 2 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 4 dice]
+Turn for Holy Spirit
+Make a bid (Quantity & FaceValue)
+Bid made 17 of Face Value 3
+Round #76 [John: 3 dice, Jesus: 1 dice, Mary: 1 dice, Paul: 2 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [17 dice of Face Value 3]
+Turn for Pope Francis
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 19 of Face Value 3
+Round #76 [John: 3 dice, Jesus: 1 dice, Mary: 1 dice, Paul: 2 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 4 dice] Last Bid: [19 dice of Face Value 3]
+Turn for devil
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [19 dice of Face Value 3]...all dice shown:
+John[3, 1, 1] Count = 3
+Jesus[1] Count = 1
+Mary[5] Count = 0
+Paul[1, 6] Count = 1
+Judus[5, 2] Count = 0
+Kenyes[3] Count = 1
+Holy Spirit[1, 2] Count = 1
+Pope Francis [3, 3, 5] Count = 2
+devil[1, 5, 2, 4] Count = 1
+Total Count = 10
+Challenge invalid; Round Loser is devil
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #77
+Round #77 [John: 3 dice, Jesus: 1 dice, Mary: 1 dice, Paul: 2 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 3 dice]
+Turn for devil
+Make a bid (Quantity & FaceValue)
+Bid made 8 of Face Value 4
+Round #77 [John: 3 dice, Jesus: 1 dice, Mary: 1 dice, Paul: 2 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 3 dice] Last Bid: [8 dice of Face Value 4]
+Turn for John
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [8 dice of Face Value 4]...all dice shown:
+John[2, 5, 6] Count = 0
+Jesus[4] Count = 1
+Mary[5] Count = 0
+Paul[6, 6] Count = 0
+Judus[5, 2] Count = 0
+Kenyes[1] Count = 1
+Holy Spirit[5, 6] Count = 0
+Pope Francis [1, 3, 6] Count = 1
+devil[1, 6, 3] Count = 1
+Total Count = 4
+Challenge invalid; Round Loser is John
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #78
+Round #78 [John: 2 dice, Jesus: 1 dice, Mary: 1 dice, Paul: 2 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 3 dice]
+Turn for John
+Make a bid (Quantity & FaceValue)
+Bid made 14 of Face Value 5
+Round #78 [John: 2 dice, Jesus: 1 dice, Mary: 1 dice, Paul: 2 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 3 dice] Last Bid: [14 dice of Face Value 5]
+Turn for Jesus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [14 dice of Face Value 5]...all dice shown:
+John[5, 4] Count = 1
+Jesus[1] Count = 1
+Mary[2] Count = 0
+Paul[5, 5] Count = 2
+Judus[1, 5] Count = 2
+Kenyes[3] Count = 0
+Holy Spirit[2, 3] Count = 0
+Pope Francis [5, 2, 4] Count = 1
+devil[1, 5, 5] Count = 3
+Total Count = 10
+Challenge invalid; Round Loser is Jesus
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #79
+Round #79 [John: 2 dice, Mary: 1 dice, Paul: 2 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 3 dice]
+Turn for Mary
+Make a bid (Quantity & FaceValue)
+Bid made 0 of Face Value 4
+Round #79 [John: 2 dice, Mary: 1 dice, Paul: 2 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 3 dice] Last Bid: [0 dice of Face Value 4]
+Turn for Paul
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [0 dice of Face Value 4]...all dice shown:
+John[6, 6] Count = 0
+Mary[1] Count = 1
+Paul[4, 2] Count = 1
+Judus[1, 4] Count = 2
+Kenyes[4] Count = 1
+Holy Spirit[2, 6] Count = 0
+Pope Francis [4, 3, 1] Count = 2
+devil[1, 6, 6] Count = 1
+Total Count = 8
+Challenge invalid; Round Loser is Paul
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #80
+Round #80 [John: 2 dice, Mary: 1 dice, Paul: 1 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 3 dice]
+Turn for Paul
+Make a bid (Quantity & FaceValue)
+Bid made 7 of Face Value 1
+Round #80 [John: 2 dice, Mary: 1 dice, Paul: 1 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 3 dice] Last Bid: [7 dice of Face Value 1]
+Turn for Judus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 10 of Face Value 1
+Round #80 [John: 2 dice, Mary: 1 dice, Paul: 1 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 3 dice] Last Bid: [10 dice of Face Value 1]
+Turn for Kenyes
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 10 of Face Value 4
+Round #80 [John: 2 dice, Mary: 1 dice, Paul: 1 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 2 dice, Pope Francis : 3 dice, devil: 3 dice] Last Bid: [10 dice of Face Value 4]
+Turn for Holy Spirit
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [10 dice of Face Value 4]...all dice shown:
+John[4, 2] Count = 1
+Mary[5] Count = 0
+Paul[6] Count = 0
+Judus[2, 6] Count = 0
+Kenyes[5] Count = 0
+Holy Spirit[4, 2] Count = 1
+Pope Francis [5, 1, 1] Count = 2
+devil[4, 3, 6] Count = 1
+Total Count = 5
+Challenge invalid; Round Loser is Holy Spirit
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #81
+Round #81 [John: 2 dice, Mary: 1 dice, Paul: 1 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 1 dice, Pope Francis : 3 dice, devil: 3 dice]
+Turn for Holy Spirit
+Make a bid (Quantity & FaceValue)
+Bid made 12 of Face Value 4
+Round #81 [John: 2 dice, Mary: 1 dice, Paul: 1 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 1 dice, Pope Francis : 3 dice, devil: 3 dice] Last Bid: [12 dice of Face Value 4]
+Turn for Pope Francis
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 14 of Face Value 4
+Round #81 [John: 2 dice, Mary: 1 dice, Paul: 1 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 1 dice, Pope Francis : 3 dice, devil: 3 dice] Last Bid: [14 dice of Face Value 4]
+Turn for devil
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 14 of Face Value 6
+Round #81 [John: 2 dice, Mary: 1 dice, Paul: 1 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 1 dice, Pope Francis : 3 dice, devil: 3 dice] Last Bid: [14 dice of Face Value 6]
+Turn for John
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [14 dice of Face Value 6]...all dice shown:
+John[4, 4] Count = 0
+Mary[3] Count = 0
+Paul[5] Count = 0
+Judus[5, 4] Count = 0
+Kenyes[2] Count = 0
+Holy Spirit[4] Count = 0
+Pope Francis [3, 4, 2] Count = 0
+devil[5, 5, 2] Count = 0
+Total Count = 0
+Challenge invalid; Round Loser is John
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #82
+Round #82 [John: 1 dice, Mary: 1 dice, Paul: 1 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 1 dice, Pope Francis : 3 dice, devil: 3 dice]
+Turn for John
+Make a bid (Quantity & FaceValue)
+Bid made 8 of Face Value 0
+Round #82 [John: 1 dice, Mary: 1 dice, Paul: 1 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 1 dice, Pope Francis : 3 dice, devil: 3 dice] Last Bid: [8 dice of Face Value 0]
+Turn for Mary
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 9 of Face Value 0
+Round #82 [John: 1 dice, Mary: 1 dice, Paul: 1 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 1 dice, Pope Francis : 3 dice, devil: 3 dice] Last Bid: [9 dice of Face Value 0]
+Turn for Paul
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [9 dice of Face Value 0]...all dice shown:
+John[2] Count = 0
+Mary[1] Count = 1
+Paul[1] Count = 1
+Judus[1, 6] Count = 1
+Kenyes[4] Count = 0
+Holy Spirit[6] Count = 0
+Pope Francis [6, 6, 2] Count = 0
+devil[1, 3, 6] Count = 1
+Total Count = 4
+Challenge invalid; Round Loser is Paul
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #83
+Round #83 [John: 1 dice, Mary: 1 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 1 dice, Pope Francis : 3 dice, devil: 3 dice]
+Turn for Judus
+Make a bid (Quantity & FaceValue)
+Bid made 4 of Face Value 2
+Round #83 [John: 1 dice, Mary: 1 dice, Judus: 2 dice, Kenyes: 1 dice, Holy Spirit: 1 dice, Pope Francis : 3 dice, devil: 3 dice] Last Bid: [4 dice of Face Value 2]
+Turn for Kenyes
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [4 dice of Face Value 2]...all dice shown:
+John[6] Count = 0
+Mary[4] Count = 0
+Judus[4, 5] Count = 0
+Kenyes[6] Count = 0
+Holy Spirit[5] Count = 0
+Pope Francis [3, 3, 6] Count = 0
+devil[2, 3, 3] Count = 1
+Total Count = 1
+Challenge invalid; Round Loser is Kenyes
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #84
+Round #84 [John: 1 dice, Mary: 1 dice, Judus: 2 dice, Holy Spirit: 1 dice, Pope Francis : 3 dice, devil: 3 dice]
+Turn for Holy Spirit
+Make a bid (Quantity & FaceValue)
+Bid made 5 of Face Value 1
+Round #84 [John: 1 dice, Mary: 1 dice, Judus: 2 dice, Holy Spirit: 1 dice, Pope Francis : 3 dice, devil: 3 dice] Last Bid: [5 dice of Face Value 1]
+Turn for Pope Francis
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [5 dice of Face Value 1]...all dice shown:
+John[4] Count = 0
+Mary[1] Count = 1
+Judus[4, 1] Count = 1
+Holy Spirit[5] Count = 0
+Pope Francis [2, 6, 6] Count = 0
+devil[5, 2, 6] Count = 0
+Total Count = 2
+Challenge invalid; Round Loser is Pope Francis
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #85
+Round #85 [John: 1 dice, Mary: 1 dice, Judus: 2 dice, Holy Spirit: 1 dice, Pope Francis : 2 dice, devil: 3 dice]
+Turn for Pope Francis
+Make a bid (Quantity & FaceValue)
+Bid made 5 of Face Value 3
+Round #85 [John: 1 dice, Mary: 1 dice, Judus: 2 dice, Holy Spirit: 1 dice, Pope Francis : 2 dice, devil: 3 dice] Last Bid: [5 dice of Face Value 3]
+Turn for devil
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [5 dice of Face Value 3]...all dice shown:
+John[3] Count = 1
+Mary[3] Count = 1
+Judus[6, 4] Count = 0
+Holy Spirit[5] Count = 0
+Pope Francis [4, 6] Count = 0
+devil[1, 6, 1] Count = 2
+Total Count = 4
+Challenge invalid; Round Loser is devil
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #86
+Round #86 [John: 1 dice, Mary: 1 dice, Judus: 2 dice, Holy Spirit: 1 dice, Pope Francis : 2 dice, devil: 2 dice]
+Turn for devil
+Make a bid (Quantity & FaceValue)
+Bid made 9 of Face Value 6
+Round #86 [John: 1 dice, Mary: 1 dice, Judus: 2 dice, Holy Spirit: 1 dice, Pope Francis : 2 dice, devil: 2 dice] Last Bid: [9 dice of Face Value 6]
+Turn for John
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [9 dice of Face Value 6]...all dice shown:
+John[3] Count = 0
+Mary[5] Count = 0
+Judus[5, 6] Count = 1
+Holy Spirit[4] Count = 0
+Pope Francis [2, 5] Count = 0
+devil[6, 2] Count = 1
+Total Count = 2
+Challenge invalid; Round Loser is John
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #87
+Round #87 [Mary: 1 dice, Judus: 2 dice, Holy Spirit: 1 dice, Pope Francis : 2 dice, devil: 2 dice]
+Turn for Mary
+Make a bid (Quantity & FaceValue)
+Bid made 7 of Face Value 4
+Round #87 [Mary: 1 dice, Judus: 2 dice, Holy Spirit: 1 dice, Pope Francis : 2 dice, devil: 2 dice] Last Bid: [7 dice of Face Value 4]
+Turn for Judus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 8 of Face Value 4
+Round #87 [Mary: 1 dice, Judus: 2 dice, Holy Spirit: 1 dice, Pope Francis : 2 dice, devil: 2 dice] Last Bid: [8 dice of Face Value 4]
+Turn for Holy Spirit
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [8 dice of Face Value 4]...all dice shown:
+Mary[4] Count = 1
+Judus[3, 5] Count = 0
+Holy Spirit[6] Count = 0
+Pope Francis [5, 6] Count = 0
+devil[3, 3] Count = 0
+Total Count = 1
+Challenge invalid; Round Loser is Holy Spirit
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #88
+Round #88 [Mary: 1 dice, Judus: 2 dice, Pope Francis : 2 dice, devil: 2 dice]
+Turn for Pope Francis
+Make a bid (Quantity & FaceValue)
+Bid made 1 of Face Value 5
+Round #88 [Mary: 1 dice, Judus: 2 dice, Pope Francis : 2 dice, devil: 2 dice] Last Bid: [1 dice of Face Value 5]
+Turn for devil
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 2 of Face Value 5
+Round #88 [Mary: 1 dice, Judus: 2 dice, Pope Francis : 2 dice, devil: 2 dice] Last Bid: [2 dice of Face Value 5]
+Turn for Mary
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 2 of Face Value 6
+Round #88 [Mary: 1 dice, Judus: 2 dice, Pope Francis : 2 dice, devil: 2 dice] Last Bid: [2 dice of Face Value 6]
+Turn for Judus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 7 of Face Value 6
+Round #88 [Mary: 1 dice, Judus: 2 dice, Pope Francis : 2 dice, devil: 2 dice] Last Bid: [7 dice of Face Value 6]
+Turn for Pope Francis
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [7 dice of Face Value 6]...all dice shown:
+Mary[3] Count = 0
+Judus[1, 5] Count = 1
+Pope Francis [4, 6] Count = 1
+devil[5, 3] Count = 0
+Total Count = 2
+Challenge invalid; Round Loser is Pope Francis
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #89
+Round #89 [Mary: 1 dice, Judus: 2 dice, Pope Francis : 1 dice, devil: 2 dice]
+Turn for Pope Francis
+Make a bid (Quantity & FaceValue)
+Bid made 4 of Face Value 5
+Round #89 [Mary: 1 dice, Judus: 2 dice, Pope Francis : 1 dice, devil: 2 dice] Last Bid: [4 dice of Face Value 5]
+Turn for devil
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [4 dice of Face Value 5]...all dice shown:
+Mary[3] Count = 0
+Judus[6, 1] Count = 1
+Pope Francis [6] Count = 0
+devil[2, 4] Count = 0
+Total Count = 1
+Challenge invalid; Round Loser is devil
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #90
+Round #90 [Mary: 1 dice, Judus: 2 dice, Pope Francis : 1 dice, devil: 1 dice]
+Turn for devil
+Make a bid (Quantity & FaceValue)
+Bid made 0 of Face Value 2
+Round #90 [Mary: 1 dice, Judus: 2 dice, Pope Francis : 1 dice, devil: 1 dice] Last Bid: [0 dice of Face Value 2]
+Turn for Mary
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 0 of Face Value 6
+Round #90 [Mary: 1 dice, Judus: 2 dice, Pope Francis : 1 dice, devil: 1 dice] Last Bid: [0 dice of Face Value 6]
+Turn for Judus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 1 of Face Value 6
+Round #90 [Mary: 1 dice, Judus: 2 dice, Pope Francis : 1 dice, devil: 1 dice] Last Bid: [1 dice of Face Value 6]
+Turn for Pope Francis
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 4 of Face Value 6
+Round #90 [Mary: 1 dice, Judus: 2 dice, Pope Francis : 1 dice, devil: 1 dice] Last Bid: [4 dice of Face Value 6]
+Turn for devil
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 5 of Face Value 6
+Round #90 [Mary: 1 dice, Judus: 2 dice, Pope Francis : 1 dice, devil: 1 dice] Last Bid: [5 dice of Face Value 6]
+Turn for Mary
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [5 dice of Face Value 6]...all dice shown:
+Mary[6] Count = 1
+Judus[3, 3] Count = 0
+Pope Francis [6] Count = 1
+devil[5] Count = 0
+Total Count = 2
+Challenge invalid; Round Loser is Mary
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #91
+Round #91 [Judus: 2 dice, Pope Francis : 1 dice, devil: 1 dice]
+Turn for Judus
+Make a bid (Quantity & FaceValue)
+Bid made 4 of Face Value 2
+Round #91 [Judus: 2 dice, Pope Francis : 1 dice, devil: 1 dice] Last Bid: [4 dice of Face Value 2]
+Turn for Pope Francis
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 4 of Face Value 4
+Round #91 [Judus: 2 dice, Pope Francis : 1 dice, devil: 1 dice] Last Bid: [4 dice of Face Value 4]
+Turn for devil
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 4 of Face Value 5
+Round #91 [Judus: 2 dice, Pope Francis : 1 dice, devil: 1 dice] Last Bid: [4 dice of Face Value 5]
+Turn for Judus
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [4 dice of Face Value 5]...all dice shown:
+Judus[5, 2] Count = 1
+Pope Francis [2] Count = 0
+devil[3] Count = 0
+Total Count = 1
+Challenge invalid; Round Loser is Judus
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #92
+Round #92 [Judus: 1 dice, Pope Francis : 1 dice, devil: 1 dice]
+Turn for Judus
+Make a bid (Quantity & FaceValue)
+Bid made 0 of Face Value 2
+Round #92 [Judus: 1 dice, Pope Francis : 1 dice, devil: 1 dice] Last Bid: [0 dice of Face Value 2]
+Turn for Pope Francis
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Bid made 1 of Face Value 2
+Round #92 [Judus: 1 dice, Pope Francis : 1 dice, devil: 1 dice] Last Bid: [1 dice of Face Value 2]
+Turn for devil
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [1 dice of Face Value 2]...all dice shown:
+Judus[5] Count = 0
+Pope Francis [5] Count = 0
+devil[3] Count = 0
+Total Count = 0
+Challenge invalid; Round Loser is devil
+Removing losers, who will go to the next round...
+
+Dice re-rolled after challenge; starting Round #93
+Round #93 [Judus: 1 dice, Pope Francis : 1 dice]
+Turn for Judus
+Make a bid (Quantity & FaceValue)
+Bid made 0 of Face Value 3
+Round #93 [Judus: 1 dice, Pope Francis : 1 dice] Last Bid: [1 dice of Face Value 3]
+Turn for Pope Francis
+Bid (Quantity & Face Value) or Challenge:
+1. Bid
+2. Challenge
+Pick one of the options above:
+Challenge made on [1 dice of Face Value 3]...all dice shown:
+Judus[1] Count = 1
+Pope Francis [1] Count = 1
+Total Count = 2
+Challenge invalid; Round Loser is Pope Francis
+Removing losers, who will go to the next round...
+
+Game over. Winner is  Judus! Bye
+
+Process finished with exit code 0
