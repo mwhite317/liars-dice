@@ -1,3 +1,4 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mwhite317_liars-dice&metric=alert_status)](https://sonarcloud.io/dashboard?id=mwhite317_liars-dice)
 # Liars Dice Game
 ALearn to deceive your opponent and detect their deception with Liar’s Dice. The objective of the game is be the last person standing with dice. Each player has a set of covered dice and roll them once before players bid on the amount of dice faces there are between each other.
  
